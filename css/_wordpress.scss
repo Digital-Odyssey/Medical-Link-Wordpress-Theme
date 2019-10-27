@@ -1,0 +1,226 @@
+/* Categories - WP NATIVE */
+.pm-widget-footer .widget_categories ul {
+	list-style:none;
+	padding:0;
+	margin:0;
+}
+
+.pm-widget-footer .widget_categories ul li:before {
+    content: "" !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.pm-widget-footer .widget_categories ul li {
+	padding-bottom:16px;
+	margin-bottom:16px;	
+	border-bottom:1px solid #d5d5d5;
+}
+
+.pm-widget-footer .widget_categories ul a {	
+	@include transition(all, 0.4s);
+}
+
+
+.pm-widget-footer .widget_categories ul a:before {
+	content:"\f054";
+	font-family:'FontAwesome';
+	font-size:14px;
+	color:#2b5d83;	
+	padding-right:16px;
+}
+
+/* Categories end - WP NATIVE */
+
+/* Tag cloud */
+.pm-widget-footer .tagcloud a {
+	width:auto;
+	height:auto;	
+	display:inline;
+	background-color:white;
+	min-width:100px;
+	display:inline-block;
+	padding:12px 20px;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-size:14px !important;
+	margin:1px 0;
+	text-align:center;
+	
+	@include borderRadiusAll(4px);
+	@include transition(all, 0.4s);
+}
+
+.pm-widget-footer .tagcloud a:hover {
+	color:white;
+	background-color:#333 !important;
+}
+
+/* WP Calendar */
+.pm-widget-footer #wp-calendar thead tr th {
+	padding:0 0 10px;	
+}
+
+.pm-widget-footer #wp-calendar tbody td { 
+	background:white; 
+	border: 1px solid $primaryColor; 
+	text-align: center; 
+	padding:10px; 
+	
+	@include transition(all, 0.4s);
+}
+
+.pm-widget-footer #wp-calendar tbody tr td#today { 
+	background-color:$primaryColor; 
+}
+
+.pm-widget-footer #wp-calendar tbody tr td a {
+	display:block;
+	width:inherit;
+	height:inherit;	
+	color:$secondaryColor;	
+	text-decoration:underline !important;
+}
+
+.pm-widget-footer #wp-calendar tbody tr td:hover a {
+	color:$secondaryColor;	
+}
+
+.pm-widget-footer #wp-calendar tbody td:hover {
+	background-color:$primaryColor; 	
+}
+
+.pm-widget-footer #wp-calendar caption, #wp-calendar thead th {
+	color:white !important;	
+}
+
+/* Meta - WP NATIVE */
+.pm-widget-footer .widget_meta ul {
+	list-style:none;
+	padding:0;
+	margin:0;
+}
+
+
+.pm-widget-footer .widget_meta ul li {
+	padding-bottom:16px;
+	margin-bottom:16px;	
+	border-bottom:1px solid #d5d5d5;
+}
+
+.pm-widget-footer .widget_meta ul li a {	
+	@include transition(all, 0.4s);
+}
+
+.pm-widget-footer .widget_meta ul li:before {
+	content:"\f054";
+	font-family:'FontAwesome';
+	font-size:14px;
+	color:#2b5d83;	
+	padding-right:16px;
+}
+
+/* Meta end - WP NATIVE */
+
+/* Archives - WP NATIVE */
+.pm-widget-footer .widget_archive ul {
+	list-style:none;
+	padding:0;
+	margin:0;
+}
+
+
+.pm-widget-footer .widget_archive ul li {
+	padding-bottom:16px;
+	margin-bottom:16px;	
+	border-bottom:1px solid #d5d5d5;
+}
+
+.pm-widget-footer .widget_archive ul li a {
+	@include transition(all, 0.4s);
+}
+
+
+.pm-widget-footer .widget_archive ul li:before {
+	content:"\f054";
+	font-family:'FontAwesome';
+	font-size:14px;
+	color:#2b5d83;	
+	padding-right:16px;
+}
+
+/* Archives end - WP NATIVE */
+
+
+/* Pages - WP NATIVE */
+.pm-widget-footer .widget_pages ul {
+	list-style:none;
+	padding:0;
+	margin:0;
+}
+
+
+.pm-widget-footer .widget_pages ul li {
+	padding-bottom:16px;
+	margin-bottom:16px;	
+	border-bottom:1px solid #d5d5d5;
+}
+
+.pm-widget-footer .widget_pages ul li a {
+	@include transition(all, 0.4s);
+}
+
+
+.pm-widget-footer .widget_pages ul li:before {
+	content:"\f054";
+	font-family:'FontAwesome';
+	font-size:14px;
+	color:#2b5d83;	
+	padding-right:16px;
+}
+
+/* Pages end - WP NATIVE */
+
+
+/* Recent Posts widget - WP NATIVE */
+.pm-widget-footer .widget_recent_entries ul {
+	list-style:none;
+	padding:0;
+	margin:0;
+}
+
+.pm-widget-footer .widget_recent_entries ul li:before {
+    content: "" !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.pm-widget-footer .widget_recent_entries ul li {
+	padding-bottom:16px;
+	margin-bottom:16px;	
+	border-bottom:1px solid #d5d5d5;
+}
+
+.pm-widget-footer .widget_recent_entries ul li a {
+	@include transition(all, 0.4s);
+}
+
+.pm-widget-footer .widget_recent_entries ul li span {
+	font-size:12px;	
+}
+
+.pm-widget-footer .widget_recent_entries ul li {
+	overflow:hidden;	
+}
+
+.pm-widget-footer .widget_recent_entries ul li a {
+	float:left;
+}
+
+.pm-widget-footer .widget_recent_entries ul li .post-date {
+	margin-top:6px;
+	float:left;
+	clear:both;
+}
+
+/* Recent Posts widget end - WP NATIVE */

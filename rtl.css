@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	direction:rtl;
+	unicode-bidi:embed;
+}
+
+.container {
+	direction:ltr;		
+}
+
+#pm-pulse-container {
+    direction: ltr;
+}
+
+.pm-dots {
+	direction:ltr;	
+}
+
+.owl-carousel {
+    direction: ltr;
+}
+
+.flexslider {
+	direction:ltr;	
+}
+
+.pm-fat-footer {
+    direction: ltr;
+}
+
+header {
+    direction: ltr;
+}
+
+footer {
+    direction: ltr;
+}

@@ -1,0 +1,6601 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: MEDICAL-LINK - Medical WordPress Theme\n"
+"POT-Creation-Date: 2018-05-27 13:47-0400\n"
+"PO-Revision-Date: 2018-05-27 13:47-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:8
+msgid "The page you we're looking could not be found."
+msgstr ""
+
+#: 404.php:9
+msgid "Check the URL entered and ensure it is correct."
+msgstr ""
+
+#: 404.php:11
+msgid "Return home"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/core/enqueue.php:452
+#: ReduxFramework/ReduxCore/inc/extensions/customizer/extension_customizer.php:689
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/core/enqueue.php:460
+#: ReduxFramework/ReduxCore/inc/extensions/customizer/extension_customizer.php:690
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/core/enqueue.php:468
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/core/enqueue.php:476
+#: ReduxFramework/ReduxCore/inc/extensions/customizer/extension_customizer.php:691
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/core/enqueue.php:483
+msgid "Please Wait"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/core/enqueue.php:494
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/core/enqueue.php:495
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:220
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:220
+#: ReduxFramework/ReduxCore/inc/welcome/welcome.php:205
+msgid "Redux Framework"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:224
+#: ReduxFramework/ReduxCore/framework.php:228
+msgid "Options"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:1765
+msgid "Enable"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:1770
+msgid "Disable"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:1776
+msgid "moving the mouse over"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:1778
+msgid "clicking"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:1782
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:1787
+msgid "Hints"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:1914
+msgid "Default"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:2794
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:2803
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:2883
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:4005
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>admin_bar_links</code> "
+"argument.  This is sample data.  Please change or remove this data before "
+"shipping your product."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:4020
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>share_icons</code> argument.  "
+"This is sample data.  Please change or remove this data before shipping your "
+"product."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/class.redux_admin_notices.php:97
+msgid "Dismiss"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s"
+"\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the "
+"our CDN and avoid this warning"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/class.redux_cdn.php:81
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/class.redux_cdn.php:81
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/class.redux_cdn.php:113
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:30
+#: ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:59
+#: ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:300
+msgid "File Permission Issues"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:30
+#, php-format
+msgid ""
+"We were unable to modify required files. Please check your permissions, or "
+"modify your wp-config.php file to contain your FTP login credentials as <a "
+"href=\"%s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:59
+#: ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:300
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/class.redux_helpers.php:618
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/customizer/extension_customizer.php:724
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/customizer/extension_customizer.php:725
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/customizer/extension_customizer.php:726
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#. translators: %s is the site/panel title in the Customizer
+#: ReduxFramework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:114
+#: ReduxFramework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:138
+#: ReduxFramework/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/import_export/extension_import_export.php:120
+#: ReduxFramework/medical_link/medical-config.php:1985
+msgid "Import / Export"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:95
+msgid "Import from File"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:98
+msgid "Import from URL"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:120
+msgid "Export Options"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:124
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:132
+msgid "Copy Data"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:133
+msgid "Download Data File"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:134
+msgid "Copy Export URL"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/options_object/extension_options_object.php:82
+#: ReduxFramework/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/extension_wbc_importer.php:247
+msgid "Demo Already Imported"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/extension_wbc_importer.php:274
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/extension_wbc_importer.php:276
+msgid "Demo Importer"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/extension_wbc_importer.php:281
+msgid "Works best to import on a new install of WordPress"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/parsers.php:42
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/parsers.php:72
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/parsers.php:84
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/parsers.php:89
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/parsers.php:279
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/radium-importer.php:331
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/radium-importer.php:405
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/radium-importer.php:427
+msgid "Site does not support widget"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/radium-importer.php:450
+msgid "Widget already exists"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/radium-importer.php:499
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:116
+msgid "Imported"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/radium-importer.php:502
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/radium-importer.php:509
+msgid "No Title"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:134
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:143
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:194
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:198
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:511
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:93
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+msgid "Import Demo"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:97
+msgid "Demo Imported"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:117
+msgid "Please Wait..."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:118
+msgid "Re-Import"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:127
+msgid "No Demo Data Provided"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:124
+#: ReduxFramework/ReduxCore/inc/fields/color/field_color.php:73
+#: ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:141
+#: includes/classes/PM_LN_Customizer.class.php:897
+msgid "Background Repeat"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:277
+#: ReduxFramework/ReduxCore/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:314
+#: ReduxFramework/ReduxCore/inc/fields/media/field_media.php:198
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:126
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:321
+#: ReduxFramework/ReduxCore/inc/fields/media/field_media.php:205
+#: ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:72
+#: ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:79
+#: ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:89
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:125
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:191
+#: content-knowledgebasetemplate.php:162 content-knowledgebasetemplate.php:166
+msgid "All"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:138
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:145
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:152
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:159
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:71
+msgid "Choose"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:72
+msgid "Cancel"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:74
+msgid "Select Color"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:156
+#: includes/vc_blocks/divider.php:75 includes/vc_blocks/milestone.php:162
+msgid "Width"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:172
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:442
+#: includes/vc_blocks/divider.php:67 includes/vc_blocks/milestone.php:170
+msgid "Height"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:183
+#: ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:184
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:90
+msgid "Regular"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:94
+msgid "Hover"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:98
+msgid "Visited"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:102
+#: includes/tgm/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:106
+msgid "Focus"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:62
+msgid "Add More"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/password/field_password.php:62
+#: includes/wp-functions.php:516 includes/wp-functions.php:564
+msgid "Password"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/password/field_password.php:63
+#: includes/wp-functions.php:513 includes/wp-functions.php:559
+#: includes/wp-functions.php:560
+msgid "Username"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/select/field_select.php:83
+#: ReduxFramework/ReduxCore/inc/fields/select_image/field_select_image.php:54
+msgid "Select an item"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/select/field_select.php:134
+#: ReduxFramework/ReduxCore/inc/fields/select_image/field_select_image.php:134
+msgid "No items of this type were found."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:68
+#: includes/classes/PM_LN_Customizer.class.php:2354
+#: includes/vc_blocks/slider_carousel.php:140
+msgid "Slide"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:73
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:145
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:200
+#: ReduxFramework/medical_link/medical-config.php:1719
+#: includes/vc_blocks/accordion_group.php:168
+#: includes/vc_blocks/action_button.php:84 includes/vc_blocks/cta_box.php:68
+#: includes/vc_blocks/datatable_group.php:188
+#: includes/vc_blocks/info_list.php:131 includes/vc_blocks/pricing_table.php:92
+#: includes/vc_blocks/process_list.php:130
+#: includes/vc_blocks/property_search.php:121
+#: includes/vc_blocks/tab_group.php:150
+#: includes/vc_blocks/testimonial_profile.php:86
+#: includes/vc_blocks/timetable_group.php:176 includes/widget-mailchimp.php:61
+#: includes/widget-quickcontact.php:63
+msgid "Title"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:149
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:204
+#: ReduxFramework/medical_link/medical-config.php:1720
+#: includes/vc_blocks/example.php:71 includes/vc_blocks/example.php:78
+#: includes/vc_blocks/testimonial_profile.php:117
+#: includes/widget-mailchimp.php:64 includes/widget-quickcontact.php:65
+msgid "Description"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:153
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:167
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:258
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:273
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:342
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:343
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:365
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:366
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:388
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:389
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:408
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:409
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:432
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:433
+#: includes/vc_blocks/milestone.php:178 includes/vc_blocks/piechart.php:144
+msgid "Font Size"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:441
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:442
+#: includes/vc_blocks/milestone.php:186
+msgid "Line Height"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:450
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:459
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:890
+msgid "Standard Fonts"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:991
+msgid "Google Webfonts"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/themecheck/checks/embedded.php:15
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+"submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+"strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+"document</a>, or your theme will be rejected because of Redux."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/themecheck/checks/embedded.php:24
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+"<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+"submission because of Redux."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/themecheck/checks/embedded.php:40
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+"arguments MUST be used for WP.org submissions, or you will be rejected "
+"because of your Redux configuration."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/themecheck/checks/full_package.php:36
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the <strong>ReduxCore</strong> folder. Embedding "
+"anything else will get your rejected from theme submission. Suspected Redux "
+"package file(s):"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:154
+#: ReduxFramework/ReduxCore/inc/welcome/welcome.php:229
+msgid "Redux Extensions"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:159 content-appointmentform.php:33
+#: header.php:548 includes/classes/PM_LN_Customizer.class.php:1182
+#: includes/wp-functions.php:554 includes/wp-functions.php:938
+#: includes/wp-functions.php:1023 includes/wp-functions.php:1136
+#: includes/wp-functions.php:1153
+msgid "Email Address"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:163
+#: includes/shortcodes/shortcodes.php:850
+#: includes/vc_blocks/newsletter_registration.php:40
+#: includes/widget-mailchimp.php:124
+msgid "Subscribe"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:175
+#: includes/shortcodes/shortcodes.php:1186 includes/vc_blocks/alert.php:35
+msgid "Close"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/color/validation_color.php:15
+#: ReduxFramework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: ReduxFramework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/email/validation_email.php:16
+#: ReduxFramework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: ReduxFramework/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/about.php:8
+#: ReduxFramework/ReduxCore/inc/welcome/views/changelog.php:10
+#: ReduxFramework/ReduxCore/inc/welcome/views/credits.php:10
+#: ReduxFramework/ReduxCore/inc/welcome/views/extensions.php:81
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:34
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:8
+#: ReduxFramework/medical_link/medical-config.php:211
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/changelog.php:5
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:30
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/credits.php:18
+#, php-format
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/extensions.php:73
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/extensions.php:76
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/extensions.php:89
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:26
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:43
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:48
+msgid "Get System Report"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:53
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:62
+msgid "Copied!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:63
+msgid "Copy for Support"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:73
+msgid "WordPress Environment"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:80
+msgid "Home URL"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:83
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:89
+msgid "Site URL"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:92
+msgid "The root URL of your site."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:100
+msgid "Redux Version"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:103
+msgid "The version of Redux Framework installed on your site."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:111
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:114
+msgid ""
+"Redux and its extensions write data to the <code>uploads</code> directory. "
+"This directory must be writable."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:120
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:126
+msgid "WP Content URL"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:129
+msgid "The location of Wordpress's content URL."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:137
+msgid "WP Version"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:140
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:148
+msgid "WP Multisite"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:151
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:162
+msgid "Permalink Structure"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:165
+msgid ""
+"The current permalink structure as defined in Wordpress Settings->Permalinks."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:174
+msgid "Front Page Display"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:176
+msgid "The current Reading mode of Wordpress."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:185
+msgid "Front Page"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:188
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:196
+msgid "Posts Page"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:199
+msgid "The currently selected page in where blog posts are displayed."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:210
+msgid "WP Memory Limit"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:213
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:220
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:229
+msgid "Database Table Prefix"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:232
+msgid "The prefix structure of the current Wordpress database."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:240
+msgid "WP Debug Mode"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:243
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:255
+#: includes/wp-functions.php:79
+msgid "Language"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:258
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:270
+msgid "Browser"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:277
+msgid "Browser Info"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:280
+msgid "Information about web browser current in use."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:297
+msgid "Server Environment"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:304
+msgid "Server Info"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:307
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:315
+msgid "Localhost Environment"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:318
+msgid "Is the server running in a localhost environment."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:332
+msgid "PHP Version"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:335
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:343
+msgid "ABSPATH"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:346
+msgid "The ABSPATH variable on the server."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:355
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:356
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:361
+msgid "The largest filesize that can be contained in one post."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:360
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:365
+msgid "PHP Time Limit"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:366
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:370
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:371
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:375
+msgid "PHP Display Errors"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:376
+msgid "Determines if PHP will display errors within the browser."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:387
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:388
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.  "
+"If enabled on your server, Suhosin may need to be configured to increase its "
+"data submission limits."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:399
+msgid "MySQL Version"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:400
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:404
+msgid "Max Upload Size"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:405
+msgid ""
+"The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:410
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:412
+msgid "The default timezone for your server."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:416
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:428
+msgid "Used when communicating with remote services with PHP."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:434
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:473
+msgid "Remote Post"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:474
+msgid "Used to send data to remote servers."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:479
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:482
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:497
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:489
+msgid "Remote Get"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:490
+msgid "Used to grab information from remote servers for updates updates."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:495
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:531
+msgid "Active Plugins"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:546
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:553
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:572
+msgid "Redux Instance: "
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:579
+msgid "The opt_name argument for this instance of Redux."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:587
+msgid "The global_variable argument for this instance of Redux."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:595
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:600
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:605
+msgid ""
+"The page slug denotes the string used for the options panel page for this "
+"instance of Redux."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:610
+msgid ""
+"The page permissions variable sets the permission level required to access "
+"the options panel for this instance of Redux."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:615
+msgid ""
+"This variable set whether or not the menu is displayed as an admin menu item "
+"for this instance of Redux."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:620
+msgid ""
+"The page parent variable sets where the options menu will be placed on the "
+"WordPress admin sidebar for this instance of Redux."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:626
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:631
+msgid ""
+"Indicates if output flag for globally shutting off all CSS output is enabled "
+"for this instance of Redux."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:636
+msgid ""
+"The output_tag variable sets whether or not dynamic CSS will be generated "
+"for the customizer and Google fonts for this instance of Redux."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:645
+msgid ""
+"The specified template path containing custom template files for this "
+"instance of Redux."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:650
+msgid "List of template files overriding the default Redux template files."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:676
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:705
+msgid "Theme"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:710
+#: includes/vc_blocks/testimonial_profile.php:78 includes/wp-functions.php:1135
+#: includes/wp-functions.php:1152
+msgid "Name"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:711
+msgid "The name of the current active theme."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:715
+#: includes/tgm/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:716
+msgid "The installed version of the current active theme."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:722
+msgid "is available"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:728
+msgid "Author URL"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:729
+msgid "The theme developers URL."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:733
+msgid "Child Theme"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:734
+msgid "Displays whether or not the current theme is a child theme."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:737
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:745
+msgid "Parent Theme Name"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:747
+msgid "The name of the parent theme."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:752
+msgid "Parent Theme Version"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:754
+msgid "The installed version of the parent theme."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:759
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/status_report.php:761
+msgid "The parent theme developers URL."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:4
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:19
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:40
+msgid "Generate a Support URL"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:20
+msgid "Select Support Type"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:21
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:87
+msgid "How to Get Support"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:31
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:35
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:52
+msgid "Select Your Support Type"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:56
+msgid "What type of user are you?"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:63
+msgid "User"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:65
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:70
+msgid "Developer"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:72
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:92
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:101
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:105
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/views/support.php:134
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/welcome.php:106
+msgid ""
+"If you like <strong>Redux</strong> please leave us a <a href=\"https://"
+"wordpress.org/support/view/plugin-reviews/redux-framework?filter=5#postform"
+"\" target=\"_blank\" class=\"redux-rating-link\" data-rated="
+"\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A huge thank "
+"you from Redux in advance!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/welcome.php:183
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/welcome.php:205
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/welcome.php:213
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/welcome.php:221
+msgid "Get Support"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/welcome.php:238
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/welcome.php:246
+msgid "Redux Framework Status"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/welcome.php:346
+msgid "What's New"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/welcome.php:349
+msgid "Extensions"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/welcome.php:352
+msgid "Changelog"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/welcome.php:355
+msgid "Credits"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/welcome.php:358
+msgid "Support"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/welcome.php:361
+#: includes/tgm/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome/welcome.php:521
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/templates/panel/footer.tpl.php:57
+#: ReduxFramework/ReduxCore/templates/panel/header_stickybar.tpl.php:21
+msgid "Save Changes"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/templates/panel/footer.tpl.php:61
+#: ReduxFramework/ReduxCore/templates/panel/header_stickybar.tpl.php:25
+msgid "Reset Section"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/templates/panel/footer.tpl.php:62
+#: ReduxFramework/ReduxCore/templates/panel/header_stickybar.tpl.php:26
+msgid "Reset All"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/templates/panel/footer.tpl.php:67
+#: ReduxFramework/ReduxCore/templates/panel/header_stickybar.tpl.php:29
+msgid "Working..."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/templates/panel/header.tpl.php:11
+#: ReduxFramework/ReduxCore/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr ""
+
+#: ReduxFramework/medical_link/barebones-config.php:54
+msgid "Home Settings"
+msgstr ""
+
+#: ReduxFramework/medical_link/barebones-config.php:55
+msgid ""
+"Redux Framework was created with the developer in mind. It allows for any "
+"theme developer to have an advanced theme panel with most of the features a "
+"developer would need. For more information check out the Github repo at: <a "
+"href=\"https://github.com/ReduxFramework/Redux-Framework\">https://github."
+"com/ReduxFramework/Redux-Framework</a>"
+msgstr ""
+
+#: ReduxFramework/medical_link/barebones-config.php:63
+msgid "Web Fonts"
+msgstr ""
+
+#: ReduxFramework/medical_link/barebones-config.php:66
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: ReduxFramework/medical_link/barebones-config.php:67
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: ReduxFramework/medical_link/barebones-config.php:82
+msgid "Theme Information 1"
+msgstr ""
+
+#: ReduxFramework/medical_link/barebones-config.php:83
+#: ReduxFramework/medical_link/barebones-config.php:89
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ReduxFramework/medical_link/barebones-config.php:88
+msgid "Theme Information 2"
+msgstr ""
+
+#: ReduxFramework/medical_link/barebones-config.php:93
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ReduxFramework/medical_link/barebones-config.php:113
+#: ReduxFramework/medical_link/barebones-config.php:114
+msgid "Sample Options"
+msgstr ""
+
+#: ReduxFramework/medical_link/barebones-config.php:211
+#: ReduxFramework/medical_link/medical-config.php:2164
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: ReduxFramework/medical_link/barebones-config.php:213
+#: ReduxFramework/medical_link/medical-config.php:2166
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: ReduxFramework/medical_link/barebones-config.php:217
+#: ReduxFramework/medical_link/medical-config.php:2170
+msgid ""
+"<p>This text is displayed below the options panel. It isn't required, but "
+"more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:114
+msgid "Section via hook"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:115
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:193
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:200
+#: ReduxFramework/medical_link/medical-config.php:203
+msgid "Current theme preview"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:210
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:212
+msgid "Tags"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:217
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:217
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:247
+#: includes/classes/PM_LN_Customizer.class.php:59
+msgid "Header Options"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:248
+msgid "Manage options for the header area."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:249
+msgid ""
+"<p class=\"description\">Edit fonts for the header area and activate or "
+"deactivate the google map for the contact page template.</p>"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:257
+msgid "Navigation Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:271
+msgid "Updates the font styling for desktop and mobile navigation."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:285
+msgid "Page Title"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:299
+msgid "Updates the font styling for the Page Title."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:315
+msgid "Page Message"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:329
+msgid "Updates the font styling for the header page message."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:343
+msgid "Breadcrumb Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:358
+msgid "Updates the breadcrumb trail font."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:372
+msgid "Micro Navigation Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:387
+msgid "Updates the font styling for the micro navigation area."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:406
+#: includes/classes/PM_LN_Customizer.class.php:646
+msgid "Footer Options"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:407
+msgid "Manage options for the footer area."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:416
+msgid "Footer Widget Title"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:431
+msgid "Updates the font styling for the Footer Widget Title."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:446
+msgid "Fat Footer Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:462
+msgid "Updates the font styling in the fat footer area."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:477
+msgid "Footer Navigation Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:493
+msgid "Updates the font styling for the navigation in the footer area."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:507
+msgid "Footer Tag Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:523
+msgid "Updates the font styling for social footer area."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:537
+msgid "Copyright Info"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:538
+msgid ""
+"Add a custom copyright message or leave blank to display default copyright "
+"info. NOTE: copyright date is automatically added either way."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:554
+#: includes/classes/PM_LN_Customizer.class.php:1911
+msgid "Shortcode Options"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:555
+msgid "Manages options and font styles for particular shortcodes."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:565
+#: ReduxFramework/medical_link/medical-config.php:1647
+#: ReduxFramework/medical_link/medical-config.php:1648
+msgid "Testimonials Carousel"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:577
+msgid "Updates the font styling for the testimonials carousel."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:593
+msgid "Tab and Accordion button font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:605
+msgid "Updates the button font styling for the tab and accordion system."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:619
+msgid "Alerts"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:631
+msgid "Updates the font styling for Alert shortcode."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:645
+msgid "Pie Chart / Countdown / Milestone"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:657
+msgid "Updates the font styling for the Pie Chart and Countdown shortcode."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:723
+msgid "Global Fonts"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:724
+msgid "Manage Global Font Styles."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:733
+msgid "Body Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:744
+msgid "Updates the main body font throughout the site."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:758
+msgid "H1"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:770
+msgid "Update the font styling for the Header 1 tag."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:783
+msgid "H2"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:795
+msgid "Update the font styling for the Header 2 tag."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:808
+msgid "H3"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:820
+msgid "Update the font styling for the Header 3 tag."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:833
+msgid "H4"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:845
+msgid "Update the font styling for the Header 4 tag."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:859
+msgid "H5"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:871
+msgid "Update the font styling for the Header 5 tag."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:886
+msgid "H6"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:898
+msgid "Update the font styling for the Header 6 tag."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:911
+msgid "Button Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:919
+msgid "Updates the font styling for all buttons."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:933
+msgid "Sidebar Widget Title"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:945
+msgid "Updates the font styling for the widget title in the sidebar area."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:958
+msgid "Sidebar Tag Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:970
+msgid "Updates the button font styling for the tags widget."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:986
+msgid "Sidebar Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:997
+msgid "Updates the font styling for the sidebar area."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1010
+msgid "Sidebar Link Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1021
+#: ReduxFramework/medical_link/medical-config.php:1045
+msgid "Updates the font styling for all links in the sidebar."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1034
+msgid "Sidebar Meta Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1060
+msgid "Tooltip Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1072
+msgid "Updates the font styling for the tooltip."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1085
+msgid "Unordered List Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1097
+#: ReduxFramework/medical_link/medical-config.php:1122
+msgid "Updates the font styling for the undordered and orderded lists."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1110
+msgid "Ordered List Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1135
+msgid "Glossary List Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1147
+msgid ""
+"Updates the font styling for the Knowledge base center glossary list font."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1161
+msgid "Block Quote Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1173
+msgid "Updates the font styling for the blockquote tag."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1187
+msgid "Comments Form Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1199
+msgid "Updates the font styling for comment forms."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1220
+#: includes/classes/PM_LN_Customizer.class.php:1492
+msgid "Post Options"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1221
+msgid "Manage options and font styles for News Posts."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1230
+msgid "Post Title"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1242
+msgid "Updates the font styling for the post title."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1259
+msgid "Post Date / Comments"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1271
+msgid "Updates the font styling for the post date, author and comment font."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1287
+msgid "Meta Information Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1299
+msgid "Updates the font styling for the post category and tag links."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1314
+msgid "Post Sections Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1326
+msgid "Updates the font styling for each section on a single post page."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1340
+msgid "Staff / Gallery post type font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1352
+msgid ""
+"Updates the font styling for name and title in the staff profile post and "
+"the title in the Gallery post."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1373
+#: includes/classes/PM_LN_Customizer.class.php:1418
+msgid "Woocommerce Options"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1374
+msgid "Manage options and font styles for the Woocommerce Shopping Cart."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1375
+msgid ""
+"<p class=\"description\">This section only applies if the Woocommerce plug-"
+"in is installed and activated.</p>"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1384
+msgid "Product Title Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1396
+msgid "Updates the product title font."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1409
+msgid "Product Price Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1421
+msgid "Updates the product price font."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1434
+msgid "Tab System Button Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1446
+msgid "Updates the tab font for Woocommerce tab system."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1459
+msgid "Tab System Body Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1471
+msgid "Updates the tab title font for Woocommerce tab system."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1485
+msgid "Form Title Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1497
+msgid "Updates the title font for Woocommerce forms."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1510
+msgid "Form Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1518
+msgid "Updates the body font for Woocommerce forms."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1530
+msgid "Form Links Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1542
+msgid "Updates the links font for Woocommerce forms."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1561
+#: ReduxFramework/medical_link/medical-config.php:1562
+msgid "Appointment Form"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1571
+msgid "Recipient Email"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1572
+msgid "Provide the recipient email for the Appointment Form."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1590
+#: ReduxFramework/medical_link/medical-config.php:1591
+msgid "Knowledge Base Options"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1600
+msgid "Knowledge Base Return URL"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1601
+msgid ""
+"Provide the return URL for the knowledge base link found on single knowledge "
+"base posts."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1620
+#: ReduxFramework/medical_link/medical-config.php:1621
+#: ReduxFramework/medical_link/medical-config.php:1630
+msgid "Custom Slider"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1631
+msgid ""
+"You can display a custom slider on the default index page by providing a "
+"slider shortcode here. <strong>NOTE:</strong> Be sure to disable the Micro "
+"Slider under Appearance -> Customize Medical-Link -> Micro Slider Options"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1657
+msgid "Testimonial Slides"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1658
+#: ReduxFramework/medical_link/medical-config.php:1687
+#: ReduxFramework/medical_link/medical-config.php:1716
+#: ReduxFramework/medical_link/medical-config.php:1968
+msgid "Unlimited slides with drag and drop sortings."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1659
+#: ReduxFramework/medical_link/medical-config.php:1688
+#: ReduxFramework/medical_link/medical-config.php:1717
+#: ReduxFramework/medical_link/medical-config.php:1969
+msgid ""
+"This field will store all slides values into a multidimensional array to use "
+"into a foreach loop."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1661
+msgid "Authors name"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1662
+msgid "Quote"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1663
+msgid "Authors title"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1676
+#: ReduxFramework/medical_link/medical-config.php:1677
+msgid "Clients Carousel"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1686
+msgid "Client Slides"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1690
+msgid "Client name"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1691
+msgid "Featured Text"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1692
+msgid "Client URL"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1705
+#: ReduxFramework/medical_link/medical-config.php:1706
+#: includes/vc_blocks/panels_carousel.php:92
+msgid "Panels Carousel"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1715
+msgid "Panel Slides"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1721
+msgid "Icon - URL"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1735
+#: ReduxFramework/medical_link/medical-config.php:1736
+msgid "PrettyPhoto Options"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1745
+msgid "Enable Slideshow?"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1746
+msgid "Allow the slider to animate to next slide automatically."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1760
+msgid "Show Caption?"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1761
+msgid "Display the caption of each slide in the PrettyPhoto carousel."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1775
+msgid "Slideshow Speed"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1777
+msgid ""
+"Set the speed of the slideshow cycling. A value of around 5000 for this "
+"field is recommended."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1788
+msgid "Animation Speed"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1789
+msgid "Select your desired speed of the slide animation."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1804
+msgid "Color Theme"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1805
+msgid "Set the color theme for the PrettyPhoto carousel."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1821
+msgid "Display Social Buttons?"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1822
+msgid "Enable or disable the social icons in the prettyPhoto carousel."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1842
+#: ReduxFramework/medical_link/medical-config.php:1843
+#: includes/vc_blocks/micro_slider.php:146
+msgid "Micro Slider"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1852
+msgid "Slide Title Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1868
+#: ReduxFramework/medical_link/medical-config.php:1896
+msgid "Updates the font styling Micro slider caption text."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1880
+msgid "Slide Sub-Title Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1909
+msgid "Slide Description Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1925
+#: ReduxFramework/medical_link/medical-config.php:1953
+msgid "Updates the font styling Micro slider description text."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1937
+msgid "Slide Button Font"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1967
+msgid "Slides"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1971
+msgid "Slide Title - Sub-Title"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1972
+msgid "Slide Message"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1973
+msgid "Button text - URL (ex. View More - http://www.yourdomain.com/more)"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:1986
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:2007
+msgid "Theme Information"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:2008
+msgid ""
+"<p class=\"description\">This is the Description. Again HTML is allowed</p>"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:2021
+msgid "Documentation"
+msgstr ""
+
+#: ReduxFramework/medical_link/medical-config.php:2064
+#: ReduxFramework/medical_link/medical-config.php:2065
+msgid "Medical Options"
+msgstr ""
+
+#: archive.php:37 archive.php:58 archive.php:87 archive.php:107 category.php:35
+#: category.php:54 category.php:81 category.php:101
+#: includes/shortcodes/shortcodes.php:493
+#: includes/shortcodes/shortcodes.php:694 includes/vc_blocks/post_items.php:198
+#: includes/vc_blocks/service_posts.php:142 index.php:23 index.php:42
+#: index.php:69 index.php:87 tag.php:36 tag.php:55 tag.php:82 tag.php:100
+#: taxonomy-gallerycats.php:18 taxonomy-gallerycats.php:34
+#: taxonomy-gallerycats.php:56 taxonomy-gallerycats.php:70
+#: taxonomy-gallerytags.php:18 taxonomy-gallerytags.php:32
+#: taxonomy-gallerytags.php:55 taxonomy-gallerytags.php:68
+#: taxonomy-knowledgebasecats.php:23 taxonomy-knowledgebasecats.php:46
+#: taxonomy-knowledgebasecats.php:77 taxonomy-knowledgebasecats.php:99
+#: taxonomy-knowledgebasetags.php:23 taxonomy-knowledgebasetags.php:46
+#: taxonomy-knowledgebasetags.php:77 taxonomy-knowledgebasetags.php:99
+#: taxonomy-locations_countries.php:18 taxonomy-locations_countries.php:34
+#: taxonomy-locations_countries.php:56 taxonomy-locations_countries.php:70
+#: template-blog.php:38 template-blog.php:59 template-blog.php:88
+msgid "No posts were found."
+msgstr ""
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: content-appointmentform.php:30 header.php:545 includes/wp-functions.php:549
+#: includes/wp-functions.php:1022
+msgid "Full Name"
+msgstr ""
+
+#: content-appointmentform.php:36 header.php:551
+#: includes/shortcodes/shortcodes.php:1841
+#: includes/vc_blocks/contact_form.php:47 includes/wp-functions.php:939
+#: includes/wp-functions.php:1137 includes/wp-functions.php:1154
+msgid "Phone Number"
+msgstr ""
+
+#: content-appointmentform.php:39 header.php:554 includes/wp-functions.php:1138
+#: includes/wp-functions.php:1155
+msgid "Date of Appointment"
+msgstr ""
+
+#: content-appointmentform.php:42 header.php:557
+msgid "Time of Appointment (ex. 10:30am)"
+msgstr ""
+
+#: content-appointmentform.php:56
+msgid "-- Choose a location --"
+msgstr ""
+
+#: content-appointmentform.php:69
+msgid "-- Choose an address --"
+msgstr ""
+
+#: content-appointmentform.php:95 header.php:565
+msgid "Submit Request"
+msgstr ""
+
+#: content-appointmentform.php:96 header.php:566
+msgid "All fields are required."
+msgstr ""
+
+#: content-appointmentform.php:97 header.php:567
+msgid "Close Appointment form"
+msgstr ""
+
+#: content-knowledgebasepostcontent.php:33
+#: content-knowledgebasetemplate.php:117
+msgid "Search Knowledge Base"
+msgstr ""
+
+#: content-knowledgebasepostcontent.php:56
+msgid "Return To Knowledge Base"
+msgstr ""
+
+#: content-knowledgebasepostcontent.php:70
+msgid "Filed In:"
+msgstr ""
+
+#: content-knowledgebasepostcontent.php:114
+msgid "Tagged In:"
+msgstr ""
+
+#: content-knowledgebasetemplate.php:135 content-knowledgebasetemplate.php:140
+msgid "Ascending A-Z"
+msgstr ""
+
+#: content-knowledgebasetemplate.php:136 content-knowledgebasetemplate.php:141
+msgid "Descending Z-A"
+msgstr ""
+
+#: content-knowledgebasetemplate.php:146
+msgid "Sort by"
+msgstr ""
+
+#: content-knowledgebasetemplate.php:199
+msgid "Displaying search results for"
+msgstr ""
+
+#: content-knowledgebasetemplate.php:212
+msgid "No articles were found."
+msgstr ""
+
+#: content-location_post.php:122 content-singlepost.php:125
+msgid "READ MORE:"
+msgstr ""
+
+#: content-location_post.php:151
+msgid "Print page"
+msgstr ""
+
+#: content-location_post.php:163 content-singlepost.php:168
+msgid "Share This"
+msgstr ""
+
+#: content-location_post.php:165 content-pageoptions.php:15
+#: content-singlepost.php:170 header.php:140 includes/widget-twitter.php:105
+msgid "Twitter"
+msgstr ""
+
+#: content-location_post.php:169 content-pageoptions.php:19
+#: content-singlepost.php:174 header.php:134 includes/widget-facebook.php:81
+msgid "Facebook"
+msgstr ""
+
+#: content-location_post.php:173 content-pageoptions.php:13
+#: content-singlepost.php:178 header.php:146
+msgid "Google Plus"
+msgstr ""
+
+#: content-location_post.php:177 content-pageoptions.php:17
+#: content-singlepost.php:182 header.php:152
+msgid "Linkedin"
+msgstr ""
+
+#: content-location_post.php:181 content-singlepost.php:186 header.php:213
+msgid "Reddit"
+msgstr ""
+
+#: content-pageoptions.php:10
+msgid "print page"
+msgstr ""
+
+#: content-pageoptions.php:13
+msgid "Share on Google Plus"
+msgstr ""
+
+#: content-pageoptions.php:15
+msgid "Share on Twitter"
+msgstr ""
+
+#: content-pageoptions.php:17
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: content-pageoptions.php:19
+msgid "Share on Facebook"
+msgstr ""
+
+#: content-post.php:94 content-relatedposts.php:52 content-singlepost.php:97
+#: includes/shortcodes/shortcodes.php:663 includes/vc_blocks/post_items.php:167
+msgid "by"
+msgstr ""
+
+#: content-post.php:101 content-singlepost.php:102
+#: includes/shortcodes/shortcodes.php:669 includes/vc_blocks/post_items.php:175
+msgid "No Comments"
+msgstr ""
+
+#: content-post.php:103 content-singlepost.php:104
+#: includes/shortcodes/shortcodes.php:671 includes/vc_blocks/post_items.php:177
+msgid " Comments"
+msgstr ""
+
+#: content-post.php:105 content-singlepost.php:106
+#: includes/shortcodes/shortcodes.php:673 includes/vc_blocks/post_items.php:179
+msgid "1 Comment"
+msgstr ""
+
+#: content-post.php:117
+msgid "View post"
+msgstr ""
+
+#: content-relatedposts.php:30
+msgid "There are currently no articles related to this post."
+msgstr ""
+
+#: content-searchform.php:2
+msgid "Search News Posts"
+msgstr ""
+
+#: content-searchform.php:3 header.php:53
+#: includes/classes/PM_LN_Customizer.class.php:287
+msgid "Type Keywords..."
+msgstr ""
+
+#: content-servicepost.php:66 functions.php:947
+#: includes/shortcodes/shortcodes.php:480
+#: includes/vc_blocks/service_posts.php:129
+msgid "Read More"
+msgstr ""
+
+#: content-singlepost.php:152
+msgid "Tagged in"
+msgstr ""
+
+#: content-singlepost.php:230
+msgid "About the author"
+msgstr ""
+
+#: content-singlepost.php:296
+msgid "Related Posts"
+msgstr ""
+
+#: content-singlepost.php:348
+msgid "Submit a comment"
+msgstr ""
+
+#: content-singlepost.php:351
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+#: content-singlepost.php:370
+msgid "logged in"
+msgstr ""
+
+#: content-singlepost.php:370
+msgid "to post a comment."
+msgstr ""
+
+#: content-singlepost.php:381
+msgid "Logged in as"
+msgstr ""
+
+#: content-singlepost.php:381
+msgid "Log out of this account"
+msgstr ""
+
+#: content-singlepost.php:386
+msgid "Name *"
+msgstr ""
+
+#: content-singlepost.php:390
+msgid "Email *"
+msgstr ""
+
+#: content-singlepost.php:394
+msgid "Website"
+msgstr ""
+
+#: content-singlepost.php:402
+msgid "Comment..."
+msgstr ""
+
+#: content-singlepost.php:407
+msgid "You may use these HTML tags and attributes:"
+msgstr ""
+
+#: content-singlepost.php:411
+msgid "Submit Comment"
+msgstr ""
+
+#: content-staffpost.php:96 includes/shortcodes/shortcodes.php:329
+#: includes/shortcodes/shortcodes.php:805
+#: includes/vc_blocks/staff_posts.php:127
+#: includes/vc_blocks/staff_profile.php:107
+msgid "View profile"
+msgstr ""
+
+#: content-subheader.php:160 content-subheader.php:188
+#: content-subheader.php:296
+msgid "Search Results for:"
+msgstr ""
+
+#: content-subheader.php:181 content-subheader.php:289
+#: includes/wp-functions.php:254
+msgid "404 Error"
+msgstr ""
+
+#: content-subheader.php:183 content-subheader.php:291
+msgid "Page not found"
+msgstr ""
+
+#: content-subheader.php:195 content-subheader.php:303
+msgid "News tagged with:"
+msgstr ""
+
+#: content-subheader.php:202 content-subheader.php:310
+msgid "News filed in:"
+msgstr ""
+
+#: content-subheader.php:225 content-subheader.php:234
+#: content-subheader.php:249 content-subheader.php:323
+#: content-subheader.php:332 content-subheader.php:341
+msgid "Archive for"
+msgstr ""
+
+#: content-subheader.php:243
+msgid "Locations in"
+msgstr ""
+
+#: content-subheader.php:355
+msgid "Author Archive"
+msgstr ""
+
+#: content-subheaderbreadcrumbs.php:33
+msgid "Prev. Post"
+msgstr ""
+
+#: content-subheaderbreadcrumbs.php:34
+msgid "Next Post"
+msgstr ""
+
+#: content-themesampler.php:4
+msgid "Style Sampler"
+msgstr ""
+
+#: content-themesampler.php:7
+msgid "Layout Style"
+msgstr ""
+
+#: content-themesampler.php:9
+msgid "Fullscreen"
+msgstr ""
+
+#: content-themesampler.php:10
+msgid "Boxed Mode"
+msgstr ""
+
+#: content-themesampler.php:14
+msgid "Patterns for Boxed Mode"
+msgstr ""
+
+#: content-themesampler.php:26
+msgid "Backgrounds for Boxed Mode"
+msgstr ""
+
+#: functions.php:343
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: functions.php:350
+msgid "out of 5"
+msgstr ""
+
+#: functions.php:379
+msgid "Theme Updates"
+msgstr ""
+
+#: functions.php:448
+msgid "Your settings were updated"
+msgstr ""
+
+#: functions.php:453
+msgid "Theme verification"
+msgstr ""
+
+#: functions.php:454
+msgid ""
+"Use the form below to verify your Micro Themes account - this will verify "
+"your account for automatic updates."
+msgstr ""
+
+#: functions.php:458
+msgid "Select your marketplace for purchase verification"
+msgstr ""
+
+#: functions.php:461
+msgid "Choose Marketplace"
+msgstr ""
+
+#. Author of the plugin/theme
+#: functions.php:462 functions.php:726
+msgid "Micro Themes"
+msgstr ""
+
+#: functions.php:463
+msgid "Themeforest"
+msgstr ""
+
+#: functions.php:464
+msgid "Mojo Marketplace"
+msgstr ""
+
+#: functions.php:468
+msgid "Themeforest item purchase code"
+msgstr ""
+
+#: functions.php:473
+msgid "Mojo item purchase code"
+msgstr ""
+
+#: functions.php:477
+msgid "Micro Themes account email address"
+msgstr ""
+
+#: functions.php:481
+msgid "Account status"
+msgstr ""
+
+#: functions.php:485
+msgid "Verify Account"
+msgstr ""
+
+#: functions.php:494
+msgid "More Themes by Micro Themes"
+msgstr ""
+
+#: functions.php:532
+msgid "Plug-ins by Micro Themes"
+msgstr ""
+
+#: functions.php:711
+msgid ""
+"Micro Themes :: Developers of micro niche themes and plug-ins for WordPress"
+msgstr ""
+
+#: functions.php:726
+msgid "Developed by"
+msgstr ""
+
+#: functions.php:726
+msgid "Developers of micro niche themes and plug-ins for WordPress"
+msgstr ""
+
+#: functions.php:726
+msgid "Need help with this theme? Visit our"
+msgstr ""
+
+#: functions.php:726
+msgid "support forums"
+msgstr ""
+
+#: functions.php:726
+msgid "or view our"
+msgstr ""
+
+#: functions.php:726
+msgid "theme installation videos"
+msgstr ""
+
+#: functions.php:746
+msgid "Micro Themes - Latest News"
+msgstr ""
+
+#: functions.php:821 functions.php:824 includes/vc_blocks/quote_box.php:81
+msgid "Author Title"
+msgstr ""
+
+#: functions.php:935
+msgid "ID"
+msgstr ""
+
+#: functions.php:953
+msgid "Continue Reading: "
+msgstr ""
+
+#: functions.php:1186
+msgid "Please verify that you are human."
+msgstr ""
+
+#: functions.php:1187
+msgid "Your inquiry has been received, thank you."
+msgstr ""
+
+#: functions.php:1188
+msgid "A system error occurred. Please try again later."
+msgstr ""
+
+#: functions.php:1189
+msgid "No results"
+msgstr ""
+
+#: functions.php:1190
+msgid "Validating Form..."
+msgstr ""
+
+#: functions.php:1191
+msgid ""
+"Please agree to give consent before submitting your personal information."
+msgstr ""
+
+#: functions.php:1194
+msgid "Please provide your first name."
+msgstr ""
+
+#: functions.php:1195
+msgid "Please provide your last name."
+msgstr ""
+
+#: functions.php:1196 functions.php:1201 functions.php:1210
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: functions.php:1197 functions.php:1211
+msgid "Please provide a message for your inquiry."
+msgstr ""
+
+#: functions.php:1200
+msgid "Please fill in your name."
+msgstr ""
+
+#: functions.php:1202
+msgid "Please provide your phone number."
+msgstr ""
+
+#: functions.php:1203
+msgid "Please select a date for your appointment."
+msgstr ""
+
+#: functions.php:1204
+msgid "Please provide a time for your appointment."
+msgstr ""
+
+#: functions.php:1205
+msgid "Please select a country."
+msgstr ""
+
+#: functions.php:1206
+msgid "Please select a location."
+msgstr ""
+
+#: functions.php:1209
+msgid "Please provide your full name."
+msgstr ""
+
+#: functions.php:1224
+msgid "Loading..."
+msgstr ""
+
+#: functions.php:1289
+msgid "Default Template"
+msgstr ""
+
+#: functions.php:1302
+msgid "Home Page"
+msgstr ""
+
+#: functions.php:1315
+msgid "Blog Page"
+msgstr ""
+
+#: functions.php:1348
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:1359
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:1370
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:1381
+msgid "Footer Column 4"
+msgstr ""
+
+#: functions.php:1393
+msgid "Knowledge Base Center"
+msgstr ""
+
+#: functions.php:1405
+msgid "Woocommerce"
+msgstr ""
+
+#: functions.php:1471
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:1476
+msgid "Next page"
+msgstr ""
+
+#: functions.php:1477
+msgid "Previous page"
+msgstr ""
+
+#: header.php:158 includes/widget-video.php:79
+msgid "Vimeo"
+msgstr ""
+
+#: header.php:164
+msgid "YouTube"
+msgstr ""
+
+#: header.php:170
+msgid "Dribbble"
+msgstr ""
+
+#: header.php:176
+msgid "Pinterest"
+msgstr ""
+
+#: header.php:183
+msgid "Instagram"
+msgstr ""
+
+#: header.php:189
+msgid "Skype"
+msgstr ""
+
+#: header.php:195 includes/widget-flickr.php:66
+msgid "Flickr"
+msgstr ""
+
+#: header.php:201
+msgid "Tumblr"
+msgstr ""
+
+#: header.php:207
+msgid "StumbleUpon"
+msgstr ""
+
+#: header.php:219
+msgid "RSS Feed"
+msgstr ""
+
+#: header.php:337
+msgid "Categories"
+msgstr ""
+
+#: header.php:447 includes/shortcodes/shortcodes.php:99
+#: includes/vc_blocks/micro_slider.php:49
+msgid "slider loading"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:17
+msgid "Google Options"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:31
+msgid "API KEY"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:33
+msgid ""
+"Insert your Google API key (browser key) to activate Google services such as "
+"Google Maps and Google Places."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:74
+msgid "Company Logo"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:92
+msgid "Global Header Image (Pages and Posts)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:110
+msgid "Global Header Image (Archives, 404, etc.)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:126
+msgid "Sticky Navigation"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:132
+#: includes/classes/PM_LN_Customizer.class.php:150
+#: includes/classes/PM_LN_Customizer.class.php:185
+#: includes/classes/PM_LN_Customizer.class.php:220
+#: includes/classes/PM_LN_Customizer.class.php:238
+#: includes/classes/PM_LN_Customizer.class.php:256
+#: includes/classes/PM_LN_Customizer.class.php:701
+#: includes/classes/PM_LN_Customizer.class.php:719
+#: includes/classes/PM_LN_Customizer.class.php:738
+#: includes/classes/PM_LN_Customizer.class.php:756
+#: includes/classes/PM_LN_Customizer.class.php:925
+#: includes/classes/PM_LN_Customizer.class.php:943
+#: includes/classes/PM_LN_Customizer.class.php:961
+#: includes/classes/PM_LN_Customizer.class.php:979
+#: includes/classes/PM_LN_Customizer.class.php:1564
+#: includes/classes/PM_LN_Customizer.class.php:1582
+#: includes/classes/PM_LN_Customizer.class.php:1600
+#: includes/classes/PM_LN_Customizer.class.php:1619
+#: includes/classes/PM_LN_Customizer.class.php:1637
+#: includes/classes/PM_LN_Customizer.class.php:1805
+#: includes/classes/PM_LN_Customizer.class.php:2234
+#: includes/classes/PM_LN_Customizer.class.php:2251
+#: includes/classes/PM_LN_Customizer.class.php:2268
+#: includes/classes/PM_LN_Customizer.class.php:2285
+#: includes/classes/PM_LN_Customizer.class.php:2302
+#: includes/classes/PM_LN_Customizer.class.php:2319
+#: includes/classes/PM_LN_Customizer.class.php:2336
+#: includes/classes/PM_LN_Customizer.class.php:2370
+#: includes/theme-metaboxes.php:375 includes/theme-metaboxes.php:394
+#: includes/widget-quickcontact.php:87
+msgid "ON"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:133
+#: includes/classes/PM_LN_Customizer.class.php:151
+#: includes/classes/PM_LN_Customizer.class.php:186
+#: includes/classes/PM_LN_Customizer.class.php:221
+#: includes/classes/PM_LN_Customizer.class.php:239
+#: includes/classes/PM_LN_Customizer.class.php:257
+#: includes/classes/PM_LN_Customizer.class.php:702
+#: includes/classes/PM_LN_Customizer.class.php:720
+#: includes/classes/PM_LN_Customizer.class.php:739
+#: includes/classes/PM_LN_Customizer.class.php:757
+#: includes/classes/PM_LN_Customizer.class.php:926
+#: includes/classes/PM_LN_Customizer.class.php:944
+#: includes/classes/PM_LN_Customizer.class.php:962
+#: includes/classes/PM_LN_Customizer.class.php:980
+#: includes/classes/PM_LN_Customizer.class.php:1565
+#: includes/classes/PM_LN_Customizer.class.php:1583
+#: includes/classes/PM_LN_Customizer.class.php:1601
+#: includes/classes/PM_LN_Customizer.class.php:1620
+#: includes/classes/PM_LN_Customizer.class.php:1638
+#: includes/classes/PM_LN_Customizer.class.php:1806
+#: includes/classes/PM_LN_Customizer.class.php:2235
+#: includes/classes/PM_LN_Customizer.class.php:2252
+#: includes/classes/PM_LN_Customizer.class.php:2269
+#: includes/classes/PM_LN_Customizer.class.php:2286
+#: includes/classes/PM_LN_Customizer.class.php:2303
+#: includes/classes/PM_LN_Customizer.class.php:2320
+#: includes/classes/PM_LN_Customizer.class.php:2337
+#: includes/classes/PM_LN_Customizer.class.php:2371
+#: includes/theme-metaboxes.php:376 includes/theme-metaboxes.php:395
+#: includes/widget-quickcontact.php:86
+msgid "OFF"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:144
+msgid "Breadcrumbs"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:162
+msgid "Enable WPML Language selector?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:179
+msgid "Enable Mircro Menu?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:196
+msgid "Enable Cart Icon? (Requires Woocommerce)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:214
+msgid "Enable Search?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:232
+msgid "Enable Category List?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:250
+msgid "Enable Sub-header?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:273
+msgid "Position appointment form beneath the Micro Slider?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:295
+msgid "Search field text (applies globally)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:312
+msgid "Company Logo Alt Tag"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:328
+msgid "Company Logo URL"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:344
+msgid "Drop Menu Indicator"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:360
+msgid "Drop Menu / Micro Nav Icon"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:379
+msgid "Main Nav Background opacity"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:380
+msgid ""
+"Adjust the background opacity of the main navigation. (Requires window "
+"refresh)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:402
+msgid "Header Padding"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:403
+msgid ""
+"Adjust the vertical padding of the main navigation. (Requires window refresh)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:427
+msgid "Sub-Header Height"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:428
+msgid "Adjust the vertical height of the sub-page header."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:447
+msgid "Navigation Background Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:449
+msgid ""
+"Adjust the background color of the main navigation. (Requires window refresh)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:454
+msgid "Navigation Drop Down Border Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:456
+msgid "Adjust the border color of the main navigation drop down menu."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:461
+msgid "Micro Menu Background Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:463
+msgid "Adjust the background color of the micro menu."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:468
+msgid "Mobile Nav Toggle Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:470
+msgid "Adjust the color of the mobile navigation toggle button."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:475
+msgid "Subpage Header Background Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:477
+msgid "Adjust the background color of the sub-page header."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:482
+msgid "Search / Category Field Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:484
+msgid ""
+"Adjust the border color of the search field and category list in the header "
+"area."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:489
+msgid "Search / Category Field Text Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:491
+msgid ""
+"Adjust the text color of the search field and category list in the header "
+"area."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:496
+msgid "Appointment Form Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:498
+msgid "Adjust the background color of the appointment form."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:503
+msgid "Social Icon Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:505
+msgid "Adjust the background color of the social icons."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:546
+msgid "Layout Options"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:557
+msgid "1170 Boxed Mode"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:578
+msgid "Homepage Layout"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:602
+msgid "Universal Layout (Tag - Archive - Category)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:626
+msgid "Footer Layout"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:661
+msgid "Footer Logo"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:679
+msgid "Fat Footer Background Image"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:695
+msgid "Fat Footer"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:713
+msgid "Footer"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:732
+msgid "Run Parallax on Fat Footer?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:750
+msgid "Display Footer Logo?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:767
+msgid "Display Copyright?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:787
+msgid "Copyright info"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:806
+msgid "Fat Footer Padding"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:807
+msgid "Adjust the vertical padding of the fat footer."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:826
+msgid "Fat Footer Background Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:831
+msgid "Footer Background Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:836
+msgid "Copyright Background Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:868
+msgid "Global Options"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:882
+msgid "Background image"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:885
+msgid "Upload a custom site background image."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:900
+msgid "Control the repeat method of the site background image."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:918
+msgid "ToolTip"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:921
+msgid "Use this option to display the tooltip popup globally."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:936
+msgid "Theme Sampler"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:939
+msgid "Use this option to display the theme sampler module."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:954
+msgid "Retina Support"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:957
+msgid "Use this option to enable retina support for mobile devices."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:972
+#: includes/vc_blocks/contact_form.php:132
+msgid "Consent Checkbox"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:975
+msgid ""
+"Use this option to enable a consent checkbox for all built in contact forms. "
+"This was added on May 26, 2018 for GDPR compliancy in Europe."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:992
+#: includes/vc_blocks/contact_form.php:140
+msgid "Consent Message"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:994
+msgid ""
+"Add a message for the consent checkbox to all built in contact forms. NOTE: "
+"Only applies if \"Consent Checkbox\" option is set to ON"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1009
+msgid "UL List Icon"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1012
+msgid "Use this option to apply a custom icon to the unordered list element."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1029
+msgid "Global Bootstrap Container Padding"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1030
+msgid ""
+"Use this option to apply a global container padding across all pages. The "
+"\"Default padding\" option will apply the actual page bootstrap container "
+"padding amount instead."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1057
+#: includes/vc_blocks/accordion_group.php:193 includes/vc_blocks/alert.php:70
+#: includes/vc_blocks/cta_box.php:116 includes/vc_blocks/divider.php:83
+#: includes/vc_blocks/milestone.php:121 includes/vc_blocks/progress_bar.php:102
+#: includes/vc_blocks/timetable_group.php:192
+msgid "Background Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1059
+msgid "Adjust the background color of the theme."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1064
+msgid "Boxed Mode Container Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1066
+msgid ""
+"Adjust the background color of the boxed mode container. This option only "
+"applies if the \"Boxed Mode\" option is enabled under Layout Options."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1071
+msgid "Primary Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1073
+msgid ""
+"Adjust the primary color of the theme. This color applies to multiple "
+"elements for a consistent design. Please note not all elements update in "
+"real time - please save your changes and view your final changes on the "
+"front-end."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1078
+msgid "Secondary Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1080
+msgid ""
+"Adjust the secondary color of the theme. This color applies to multiple "
+"elements for a consistent design. Please note not all elements update in "
+"real time - please save your changes and view your final changes on the "
+"front-end."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1085
+msgid "Offset Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1087
+msgid ""
+"Adjust the offset color of the theme. This color applies to multiple "
+"elements for a consistent design. Please note not all elements update in "
+"real time - please save your changes and view your final changes on the "
+"front-end."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1092
+msgid "Divider/Border Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1094
+msgid ""
+"Adjust the divider/border color which applies to multiple elements for a "
+"consistent design."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1099
+msgid "ToolTip Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1101
+msgid ""
+"Adjust the background color of the tooltip popup. (Requires window refresh)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1106
+msgid "Blockquote Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1108
+msgid "Adjust the color of the blockquote element."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1113
+msgid "UL List icon color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1115
+msgid ""
+"Adjust the icon color of the unordered list element. (Requires window "
+"refresh)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1155
+msgid "Business Info"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1168
+msgid "Business Phone"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1197
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1212
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1227
+msgid "Google Plus URL"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1242
+msgid "Linkedin URL"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1257
+msgid "Vimeo URL"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1272
+msgid "YouTube URL"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1287
+msgid "Dribbble URL"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1302
+msgid "Pinterest URL"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1317
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1333
+msgid "Skype Name"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1348
+msgid "Flickr URL"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1363
+msgid "Tumblr URL"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1378
+msgid "StumbleUpon URL"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1393
+msgid "Reddit URL"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1408
+msgid "RSS URL"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1433
+msgid "Product Header Image"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1435
+msgid ""
+"Apply a global header image for all product posts. NOTE: This image will "
+"appear on any single product post template that does not have a dedicated "
+"header image assigned to it."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1452
+msgid "Category/Tag Page Header Image"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1455
+msgid "Apply a global header image for product category/tag archives."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1472
+msgid "Woocommerce layout"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1477
+msgid "Applies to all Woocommerce templates."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1507
+msgid "Author Background Image"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1526
+msgid "Post Icon Image (40x40px max.)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1543
+msgid "Post Icon"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1544
+#: includes/classes/PM_LN_Customizer.class.php:1819
+msgid ""
+"Accepts a FontAwesome 4 value (ex. fa-newspaper-o). This only applies if the "
+"Post Icon image field is empty."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1557
+msgid "Display Author Profile?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1560
+msgid "Enable or disable the author profile on the single post page."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1575
+msgid "Run Parallax on Author Profile?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1578
+msgid ""
+"Enable or disable the parallax effect for the author profile on the single "
+"post page."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1593
+msgid "Display Social Features?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1596
+msgid ""
+"Enable or disable the share icons and like button on the single post page."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1612
+msgid "Display Post date and author?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1615
+msgid "Show or hide the post date and author name."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1630
+msgid "Display Post Icon?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1648
+msgid "Post Title Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1650
+msgid "Adjust the background color of the post title container."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1656
+msgid "Author/Comments Box Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1658
+msgid ""
+"Adjust the background color of the author and comments area on the single "
+"post template."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1664
+msgid "Author Divider Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1666
+msgid ""
+"Adjust the divider color of the author profile found on the single post "
+"template."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1672
+msgid "Author Border Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1674
+msgid ""
+"Adjust the border color of the author profile found on the single post "
+"template."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1725
+msgid "Service Post Icon Image (40x40px max.)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1734
+msgid "Custom Post Type Options"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1746
+msgid "Gallery Order"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1763
+msgid "Gallery Random Height"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1780
+msgid "Staff Order"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1798
+msgid "Display Service Post Icon?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1818
+msgid "Service Post Icon"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1837
+msgid "Service Posts Per Page"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1838
+msgid "Applies to the Services Template"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1861
+msgid "Knowledge Base Glossary Posts Per Page"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1862
+msgid "Applies to the Knowledge Base Template"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1890
+msgid "Location Posts Per Page"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1891
+msgid "Applies to the Locations Template"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1925
+msgid "Content Divider Icon Image"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1957
+msgid "Enable multi-expand on Accordion system? "
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1980
+msgid "Post Carousel Speed"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:1981
+msgid ""
+"Set the carousel speed for carousel enabled shortcodes such as Services and "
+"News posts. Leave the slider all the way in the left position to disable the "
+"carousel animation. (Requires window refresh)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2004
+msgid "Testimonials Carousel Speed"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2005
+msgid ""
+"Set the carousel speed for testimonials carousel. (Requires window refresh)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2024
+msgid "Accordion content background color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2026
+msgid "Adjust the background color of the accordion system content area."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2032
+msgid "Tab content background color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2034
+msgid "Adjust the background color of the tab system content area."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2040
+msgid "Quote box color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2042
+msgid ""
+"Adjust the background color of the quote box shortcode. (Requires window "
+"refresh)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2064
+msgid "Testimonials Carousel color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2066
+msgid "Adjust the color of the testimonials carousel shortcode."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2072
+msgid "Time Table font color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2074
+msgid ""
+"Adjust the font color of the time table shortcode. (Requires window refresh)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2080
+msgid "Time Table border color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2082
+msgid "Adjust the border color of the time table shortcode."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2200
+msgid "Micro Slider Options"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2214
+msgid "Slider Text Background Image"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2228
+msgid "Enable Micro Slider?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2245
+msgid "Fixed Height?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2262
+msgid "Enable SlideShow?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2279
+msgid "Loop Slides?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2296
+msgid "Enable Bullets?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2313
+msgid "Pause on hover?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2330
+msgid "Display arrows?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2347
+#: includes/vc_blocks/slider_carousel.php:130
+msgid "Animation Type"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2353
+msgid "Fade"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2364
+msgid "Display bullet thumbnails?"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2387
+msgid "Slide Show Speed"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2388
+msgid ""
+"Set the slideshow speed of the Micro Slider. This option only applies if the "
+"slideshow option is enabled. (Requires window refresh)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2411
+msgid "Slide Speed"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2412
+msgid ""
+"Set the slide speed of the Micro Slider. This option only applies if the "
+"\"Animation Type\" option is set to Slide. (Requires window refresh)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2434
+msgid "Slider Height"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2435
+msgid ""
+"Adjust the height of the Micro Slider. This option only applies if the "
+"\"Fixed Height\" option is set to ON. (Requires window refresh)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2460
+msgid "Title / Sub-Title opacity"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2461
+msgid ""
+"Adjust the background opacity of the Micro Slider title and message. "
+"(Requires window refresh)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2479
+msgid "Title background color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2481
+msgid ""
+"Adjust the background color of the Micro Slider title. (Requires window "
+"refresh)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2487
+msgid "Sub-title background color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2489
+msgid ""
+"Adjust the background color of the Micro Slider sub-title. (Requires window "
+"refresh)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2495
+msgid "Button color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2497
+msgid "Adjust the button color of the Micro Slider."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2503
+msgid "Button Hover color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2505
+msgid ""
+"Adjust the button hover color of the Micro Slider. (Requires window refresh)"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2511
+msgid "Bullet Active Color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2513
+msgid "Adjust the bullet active color of the Micro Slider."
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2519
+msgid "Bullets Background color"
+msgstr ""
+
+#: includes/classes/PM_LN_Customizer.class.php:2521
+msgid "Adjust the bullet background color of the Micro Slider."
+msgstr ""
+
+#: includes/comment-list.php:28
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/comment-list.php:33 includes/wp-functions.php:342
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:352
+#: includes/vc_blocks/staff_posts.php:147 template-staff.php:92
+msgid "No staff profiles were found."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:642 includes/vc_blocks/post_items.php:146
+msgid "icon"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:684 includes/vc_blocks/post_items.php:190
+msgid "View Post"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1460
+#: includes/vc_blocks/timetable_group.php:43
+msgid "Open"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1517
+#: includes/vc_blocks/accordion_group.php:37
+msgid "Expand All"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1517
+#: includes/vc_blocks/accordion_group.php:37
+msgid "Collapse All"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1832
+#: includes/vc_blocks/contact_form.php:38
+msgid "First Name *"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1835
+#: includes/vc_blocks/contact_form.php:41
+msgid "Last Name *"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1838
+#: includes/vc_blocks/contact_form.php:44
+msgid "Email Address *"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1844
+#: includes/vc_blocks/contact_form.php:50
+msgid "Message *"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1848
+#: includes/vc_blocks/contact_form.php:63
+msgid "Submit Form"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1850
+msgid "Fields marked with * are required"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: includes/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:393
+#: includes/tgm/class-tgm-plugin-activation.php:920
+#: includes/tgm/class-tgm-plugin-activation.php:2626
+#: includes/tgm/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:394
+#: includes/tgm/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:395
+#: includes/tgm/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: includes/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:1027
+#: includes/tgm/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:1214
+#: includes/tgm/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: includes/tgm/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: includes/tgm/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: includes/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/tgm/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/tgm/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/tgm/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/tgm/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/tgm/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/tgm/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3602
+#: includes/tgm/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3602
+#: includes/tgm/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/tgm/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/tgm/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/tgm/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/theme-metaboxes.php:41
+msgid "Featured Image"
+msgstr ""
+
+#: includes/theme-metaboxes.php:52 includes/theme-metaboxes.php:225
+msgid "Page Header Image"
+msgstr ""
+
+#: includes/theme-metaboxes.php:63 includes/theme-metaboxes.php:282
+msgid "Page Header Message"
+msgstr ""
+
+#: includes/theme-metaboxes.php:84 includes/theme-metaboxes.php:164
+msgid "Recommended size: 1920x500px"
+msgstr ""
+
+#: includes/theme-metaboxes.php:86 includes/theme-metaboxes.php:166
+msgid "Media Library Image"
+msgstr ""
+
+#: includes/theme-metaboxes.php:90 includes/theme-metaboxes.php:170
+msgid "Remove Image"
+msgstr ""
+
+#: includes/theme-metaboxes.php:108 includes/theme-metaboxes.php:206
+msgid "Select your desired layout for this post."
+msgstr ""
+
+#: includes/theme-metaboxes.php:110 includes/theme-metaboxes.php:208
+#: includes/theme-metaboxes.php:303 includes/theme-metaboxes.php:445
+msgid "No Sidebar"
+msgstr ""
+
+#: includes/theme-metaboxes.php:111 includes/theme-metaboxes.php:209
+#: includes/theme-metaboxes.php:304
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/theme-metaboxes.php:112 includes/theme-metaboxes.php:210
+#: includes/theme-metaboxes.php:305
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/theme-metaboxes.php:143
+msgid "Post Header Image"
+msgstr ""
+
+#: includes/theme-metaboxes.php:235
+msgid "Page Layout"
+msgstr ""
+
+#: includes/theme-metaboxes.php:244
+msgid "Custom Sidebar"
+msgstr ""
+
+#: includes/theme-metaboxes.php:253
+msgid "Disable Bootstrap container for full width content?"
+msgstr ""
+
+#: includes/theme-metaboxes.php:262
+msgid "Bootstrap Container Padding Amount"
+msgstr ""
+
+#: includes/theme-metaboxes.php:271
+msgid "Enable Print and Share options?"
+msgstr ""
+
+#: includes/theme-metaboxes.php:323 includes/theme-metaboxes.php:414
+#: includes/widget-recentposts.php:58
+msgid "No"
+msgstr ""
+
+#: includes/theme-metaboxes.php:324 includes/theme-metaboxes.php:415
+#: includes/widget-recentposts.php:59
+msgid "Yes"
+msgstr ""
+
+#: includes/theme-metaboxes.php:438
+msgid "Choose a sidebar to display"
+msgstr ""
+
+#: includes/vc_blocks/accordion_group.php:119
+msgid "Accordion Menu"
+msgstr ""
+
+#: includes/vc_blocks/accordion_group.php:121
+#: includes/vc_blocks/accordion_group.php:160
+#: includes/vc_blocks/action_button.php:71
+#: includes/vc_blocks/agent_profile.php:152 includes/vc_blocks/alert.php:65
+#: includes/vc_blocks/client_carousel.php:80
+#: includes/vc_blocks/column_message.php:53
+#: includes/vc_blocks/contact_form.php:95 includes/vc_blocks/countdown.php:61
+#: includes/vc_blocks/cta_box.php:63 includes/vc_blocks/datatable_group.php:124
+#: includes/vc_blocks/datatable_group.php:180 includes/vc_blocks/divider.php:62
+#: includes/vc_blocks/example.php:50 includes/vc_blocks/google_map.php:65
+#: includes/vc_blocks/html_video.php:57 includes/vc_blocks/icon_element.php:54
+#: includes/vc_blocks/info_list.php:101 includes/vc_blocks/info_list.php:123
+#: includes/vc_blocks/micro_slider.php:149 includes/vc_blocks/milestone.php:75
+#: includes/vc_blocks/newsletter_registration.php:64
+#: includes/vc_blocks/panels_carousel.php:95 includes/vc_blocks/piechart.php:67
+#: includes/vc_blocks/post_items.php:236
+#: includes/vc_blocks/pricing_table.php:79
+#: includes/vc_blocks/process_list.php:100
+#: includes/vc_blocks/process_list.php:122
+#: includes/vc_blocks/progress_bar.php:65
+#: includes/vc_blocks/properties_gallery.php:185
+#: includes/vc_blocks/property_search.php:114
+#: includes/vc_blocks/quote_box.php:68
+#: includes/vc_blocks/recent_properties.php:176
+#: includes/vc_blocks/service_posts.php:186
+#: includes/vc_blocks/slider_carousel.php:120
+#: includes/vc_blocks/slider_carousel.php:142
+#: includes/vc_blocks/staff_posts.php:175
+#: includes/vc_blocks/staff_profile.php:149
+#: includes/vc_blocks/standard_button.php:61
+#: includes/vc_blocks/tab_group.php:120 includes/vc_blocks/tab_group.php:142
+#: includes/vc_blocks/testimonial_profile.php:73
+#: includes/vc_blocks/testimonials.php:85
+#: includes/vc_blocks/timetable_group.php:135
+#: includes/vc_blocks/timetable_group.php:168
+#: includes/vc_blocks/video_box.php:64 includes/vc_blocks/vimeo_video.php:64
+#: includes/vc_blocks/youtube_video.php:64
+msgid "Medical-Link Shortcodes"
+msgstr ""
+
+#: includes/vc_blocks/accordion_group.php:131
+#: includes/vc_blocks/countdown.php:66
+#: includes/vc_blocks/datatable_group.php:134
+#: includes/vc_blocks/tab_group.php:130
+#: includes/vc_blocks/timetable_group.php:145
+msgid "Element ID"
+msgstr ""
+
+#: includes/vc_blocks/accordion_group.php:133
+msgid ""
+"Assign a unique number value for this Accordion Menu. If you are creating "
+"multiple Accordion Menus on a single page please make sure each accordion "
+"menu has a unique number assigned to it in order to avoid conflicts between "
+"menus."
+msgstr ""
+
+#: includes/vc_blocks/accordion_group.php:139
+msgid "Display Expand/Collapse links?"
+msgstr ""
+
+#: includes/vc_blocks/accordion_group.php:147
+msgid "Link Color"
+msgstr ""
+
+#: includes/vc_blocks/accordion_group.php:158
+msgid "Accordion Item"
+msgstr ""
+
+#: includes/vc_blocks/accordion_group.php:177
+#: includes/vc_blocks/cta_box.php:108 includes/vc_blocks/pricing_table.php:163
+msgid "Button Color"
+msgstr ""
+
+#: includes/vc_blocks/accordion_group.php:185
+#: includes/vc_blocks/cta_box.php:100
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/vc_blocks/accordion_group.php:201
+#: includes/vc_blocks/action_button.php:92 includes/vc_blocks/alert.php:102
+#: includes/vc_blocks/column_message.php:58 includes/vc_blocks/cta_box.php:140
+#: includes/vc_blocks/datatable_group.php:196
+#: includes/vc_blocks/html_video.php:86 includes/vc_blocks/info_list.php:146
+#: includes/vc_blocks/pricing_table.php:179
+#: includes/vc_blocks/quote_box.php:112 includes/vc_blocks/tab_group.php:158
+#: includes/vc_blocks/timetable_group.php:199
+msgid "Content"
+msgstr ""
+
+#: includes/vc_blocks/action_button.php:68
+msgid "Action Button"
+msgstr ""
+
+#: includes/vc_blocks/action_button.php:76 includes/vc_blocks/cta_box.php:76
+#: includes/vc_blocks/icon_element.php:59
+#: includes/vc_blocks/standard_button.php:67
+msgid "Link"
+msgstr ""
+
+#: includes/vc_blocks/action_button.php:100
+#: includes/vc_blocks/standard_button.php:83
+msgid "Margin Top"
+msgstr ""
+
+#: includes/vc_blocks/action_button.php:108
+#: includes/vc_blocks/standard_button.php:91
+msgid "Margin Bottom"
+msgstr ""
+
+#: includes/vc_blocks/action_button.php:116
+#: includes/vc_blocks/client_carousel.php:85 includes/vc_blocks/cta_box.php:132
+#: includes/vc_blocks/icon_element.php:83
+#: includes/vc_blocks/panels_carousel.php:100
+#: includes/vc_blocks/standard_button.php:99
+msgid "Target Window"
+msgstr ""
+
+#: includes/vc_blocks/action_button.php:124 includes/vc_blocks/alert.php:94
+#: includes/vc_blocks/icon_element.php:67 includes/vc_blocks/info_list.php:153
+#: includes/vc_blocks/milestone.php:105 includes/vc_blocks/piechart.php:120
+#: includes/vc_blocks/process_list.php:145
+#: includes/vc_blocks/standard_button.php:107
+#: includes/vc_blocks/testimonials.php:90
+#: includes/vc_blocks/timetable_group.php:184
+#: includes/vc_blocks/video_box.php:69
+msgid "Icon"
+msgstr ""
+
+#: includes/vc_blocks/action_button.php:126
+#: includes/vc_blocks/process_list.php:147
+msgid "Enter a Simple Lineicons value."
+msgstr ""
+
+#: includes/vc_blocks/action_button.php:132
+msgid "Position"
+msgstr ""
+
+#: includes/vc_blocks/action_button.php:134
+msgid "Set the position of the button."
+msgstr ""
+
+#: includes/vc_blocks/action_button.php:140
+#: includes/vc_blocks/agent_profile.php:164 includes/vc_blocks/example.php:55
+#: includes/vc_blocks/post_items.php:274
+#: includes/vc_blocks/property_search.php:152
+#: includes/vc_blocks/standard_button.php:149
+msgid "Class"
+msgstr ""
+
+#: includes/vc_blocks/action_button.php:142
+msgid "Enter a custom CSS class if required."
+msgstr ""
+
+#: includes/vc_blocks/action_button.php:148
+msgid "CSS Animation Delay"
+msgstr ""
+
+#: includes/vc_blocks/action_button.php:150
+msgid ""
+"Enter a positive integer value - this field accepts decimals. (Ex. 0.3, 0.6, "
+"0.9, 1.0, 1.3, 1.6 etc.)"
+msgstr ""
+
+#: includes/vc_blocks/agent_profile.php:149
+msgid "Agent Profile"
+msgstr ""
+
+#: includes/vc_blocks/agent_profile.php:157
+msgid "Agent Post ID"
+msgstr ""
+
+#: includes/vc_blocks/agent_profile.php:159
+msgid "Enter the post ID assigned to your Agent profile."
+msgstr ""
+
+#: includes/vc_blocks/agent_profile.php:166
+#: includes/vc_blocks/info_list.php:163 includes/vc_blocks/post_items.php:276
+#: includes/vc_blocks/process_list.php:155
+#: includes/vc_blocks/standard_button.php:151
+msgid "Apply a custom CSS class if required."
+msgstr ""
+
+#: includes/vc_blocks/alert.php:62
+msgid "Alert Message"
+msgstr ""
+
+#: includes/vc_blocks/alert.php:78
+msgid "Display close button?"
+msgstr ""
+
+#: includes/vc_blocks/alert.php:96
+msgid "Enter a typicon icon value."
+msgstr ""
+
+#: includes/vc_blocks/client_carousel.php:77
+msgid "Client Carousel"
+msgstr ""
+
+#: includes/vc_blocks/client_carousel.php:87
+msgid "Set the target window for the client link."
+msgstr ""
+
+#: includes/vc_blocks/column_message.php:50
+msgid "Column Message"
+msgstr ""
+
+#: includes/vc_blocks/column_message.php:60 includes/vc_blocks/example.php:57
+msgid "Enter a CSS class if required."
+msgstr ""
+
+#: includes/vc_blocks/column_message.php:66
+#: includes/vc_blocks/contact_form.php:116 includes/vc_blocks/countdown.php:82
+#: includes/vc_blocks/cta_box.php:84 includes/vc_blocks/info_list.php:139
+#: includes/vc_blocks/milestone.php:130 includes/vc_blocks/piechart.php:104
+#: includes/vc_blocks/pricing_table.php:171
+#: includes/vc_blocks/process_list.php:138
+#: includes/vc_blocks/progress_bar.php:94
+#: includes/vc_blocks/property_search.php:145
+#: includes/vc_blocks/quote_box.php:96
+msgid "Text Color"
+msgstr ""
+
+#: includes/vc_blocks/contact_form.php:92
+msgid "Contact Form"
+msgstr ""
+
+#: includes/vc_blocks/contact_form.php:100
+msgid "Recipient email address"
+msgstr ""
+
+#: includes/vc_blocks/contact_form.php:102
+msgid "Enter the email address where the message will be sent to."
+msgstr ""
+
+#: includes/vc_blocks/contact_form.php:108
+msgid "Form Message"
+msgstr ""
+
+#: includes/vc_blocks/contact_form.php:124
+msgid "Response Color"
+msgstr ""
+
+#: includes/vc_blocks/countdown.php:58
+msgid "Countdown"
+msgstr ""
+
+#: includes/vc_blocks/countdown.php:68
+msgid ""
+"Assign a unique numeric ID value to prevent conflicts with multiple "
+"countdowns on a single page."
+msgstr ""
+
+#: includes/vc_blocks/countdown.php:74
+#: includes/vc_blocks/testimonial_profile.php:94
+msgid "Date"
+msgstr ""
+
+#: includes/vc_blocks/countdown.php:76
+msgid "Enter a date in the following format: 2016/08/25"
+msgstr ""
+
+#: includes/vc_blocks/countdown.php:90 includes/vc_blocks/milestone.php:138
+msgid "Text Size"
+msgstr ""
+
+#: includes/vc_blocks/countdown.php:92
+msgid "Accepts a positive integer for the font size."
+msgstr ""
+
+#: includes/vc_blocks/countdown.php:98
+msgid "Text Alignment"
+msgstr ""
+
+#: includes/vc_blocks/countdown.php:100
+msgid "Set the alignment of the text."
+msgstr ""
+
+#: includes/vc_blocks/cta_box.php:60
+msgid "Call to Action"
+msgstr ""
+
+#: includes/vc_blocks/cta_box.php:92 includes/vc_blocks/pricing_table.php:132
+#: includes/vc_blocks/standard_button.php:75
+msgid "Button Text"
+msgstr ""
+
+#: includes/vc_blocks/cta_box.php:124
+msgid "Border Color"
+msgstr ""
+
+#: includes/vc_blocks/datatable_group.php:122
+msgid "Data Table"
+msgstr ""
+
+#: includes/vc_blocks/datatable_group.php:136
+msgid ""
+"Assign a unique number value for this Data Table Menu. If you are creating "
+"multiple Data Table menus on a single page please make sure each Data Table "
+"menu has a unique number assigned to it to avoid any possible conflicts "
+"between Data table menus."
+msgstr ""
+
+#: includes/vc_blocks/datatable_group.php:142
+msgid "Title Background Color"
+msgstr ""
+
+#: includes/vc_blocks/datatable_group.php:150
+#: includes/vc_blocks/staff_profile.php:170
+msgid "Title Color"
+msgstr ""
+
+#: includes/vc_blocks/datatable_group.php:158
+msgid "Content Background Color"
+msgstr ""
+
+#: includes/vc_blocks/datatable_group.php:166
+msgid "Content Color"
+msgstr ""
+
+#: includes/vc_blocks/datatable_group.php:178
+msgid "Data Table Item"
+msgstr ""
+
+#: includes/vc_blocks/divider.php:59
+msgid "Content Divider"
+msgstr ""
+
+#: includes/vc_blocks/divider.php:91
+msgid "Top Margin"
+msgstr ""
+
+#: includes/vc_blocks/divider.php:93
+msgid "Enter a positive integer for the top margin spacing."
+msgstr ""
+
+#: includes/vc_blocks/divider.php:99
+msgid "Bottom Margin"
+msgstr ""
+
+#: includes/vc_blocks/divider.php:101
+msgid "Enter a positive integer for the bottom margin spacing."
+msgstr ""
+
+#: includes/vc_blocks/divider.php:108
+msgid "Alignment"
+msgstr ""
+
+#: includes/vc_blocks/divider.php:116
+msgid "Display Icon?"
+msgstr ""
+
+#: includes/vc_blocks/divider.php:118 includes/vc_blocks/example.php:65
+msgid "Choose the divider style you desire."
+msgstr ""
+
+#: includes/vc_blocks/example.php:47
+msgid "Visual Service Block"
+msgstr ""
+
+#: includes/vc_blocks/example.php:63
+msgid "Divider Style"
+msgstr ""
+
+#: includes/vc_blocks/example.php:73 includes/vc_blocks/example.php:80
+msgid "Enter a short description for your service."
+msgstr ""
+
+#: includes/vc_blocks/example.php:85 includes/vc_blocks/slider_carousel.php:158
+msgid "Image"
+msgstr ""
+
+#: includes/vc_blocks/example.php:87
+msgid ""
+"Enter an image path for the image you would like to represent your service."
+msgstr ""
+
+#: includes/vc_blocks/google_map.php:62
+msgid "Google Map"
+msgstr ""
+
+#: includes/vc_blocks/google_map.php:70
+msgid "Map ID"
+msgstr ""
+
+#: includes/vc_blocks/google_map.php:72
+msgid ""
+"Enter a unique map ID value - this will prevent conflicts with multiple "
+"Google Maps on the same page."
+msgstr ""
+
+#: includes/vc_blocks/google_map.php:78
+msgid "Latitude"
+msgstr ""
+
+#: includes/vc_blocks/google_map.php:80
+msgid "Enter the latitude for your map."
+msgstr ""
+
+#: includes/vc_blocks/google_map.php:86
+msgid "Longitude"
+msgstr ""
+
+#: includes/vc_blocks/google_map.php:88
+msgid "Enter the longitude for your map."
+msgstr ""
+
+#: includes/vc_blocks/google_map.php:94
+msgid "Address / Message"
+msgstr ""
+
+#: includes/vc_blocks/google_map.php:96
+msgid "Enter your address or a message for your map marker tooltip."
+msgstr ""
+
+#: includes/vc_blocks/google_map.php:119
+msgid "Map Height"
+msgstr ""
+
+#: includes/vc_blocks/html_video.php:54
+msgid "HTML5 Video"
+msgstr ""
+
+#: includes/vc_blocks/html_video.php:62
+msgid "WebM video"
+msgstr ""
+
+#: includes/vc_blocks/html_video.php:64
+msgid "Enter the URL path to your WebM formatted video."
+msgstr ""
+
+#: includes/vc_blocks/html_video.php:70
+msgid "MP4 video"
+msgstr ""
+
+#: includes/vc_blocks/html_video.php:72
+msgid "Enter the URL path to your MP4 formatted video."
+msgstr ""
+
+#: includes/vc_blocks/html_video.php:78
+msgid "OGG video"
+msgstr ""
+
+#: includes/vc_blocks/html_video.php:80
+msgid "Enter the URL path to your OGG formatted video."
+msgstr ""
+
+#: includes/vc_blocks/html_video.php:88
+msgid "Enter content if required."
+msgstr ""
+
+#: includes/vc_blocks/icon_element.php:51
+msgid "Icon Element"
+msgstr ""
+
+#: includes/vc_blocks/icon_element.php:61
+msgid "Leave this field blank if you wish to only display the icon."
+msgstr ""
+
+#: includes/vc_blocks/icon_element.php:69
+msgid "Accepts a FontAwesome 4 value. (Ex. fa fa-twitter)"
+msgstr ""
+
+#: includes/vc_blocks/icon_element.php:75 includes/vc_blocks/milestone.php:113
+msgid "Icon Color"
+msgstr ""
+
+#: includes/vc_blocks/info_list.php:99
+msgid "Info List"
+msgstr ""
+
+#: includes/vc_blocks/info_list.php:121
+msgid "Info List Item"
+msgstr ""
+
+#: includes/vc_blocks/info_list.php:155
+#: includes/vc_blocks/timetable_group.php:186
+msgid "Enter a FontAwesome 4 value."
+msgstr ""
+
+#: includes/vc_blocks/info_list.php:161 includes/vc_blocks/process_list.php:153
+msgid "CSS Class"
+msgstr ""
+
+#: includes/vc_blocks/info_list.php:169 includes/vc_blocks/process_list.php:161
+msgid "Animation Delay"
+msgstr ""
+
+#: includes/vc_blocks/milestone.php:72
+msgid "Milestone"
+msgstr ""
+
+#: includes/vc_blocks/milestone.php:81
+msgid "Speed"
+msgstr ""
+
+#: includes/vc_blocks/milestone.php:83 includes/vc_blocks/milestone.php:91
+#: includes/vc_blocks/milestone.php:140 includes/vc_blocks/milestone.php:156
+#: includes/vc_blocks/milestone.php:164 includes/vc_blocks/milestone.php:172
+#: includes/vc_blocks/milestone.php:180
+#: includes/vc_blocks/standard_button.php:85
+#: includes/vc_blocks/standard_button.php:93
+msgid "Enter a positive integer value."
+msgstr ""
+
+#: includes/vc_blocks/milestone.php:89
+msgid "Stop value"
+msgstr ""
+
+#: includes/vc_blocks/milestone.php:97 includes/vc_blocks/piechart.php:128
+msgid "Caption"
+msgstr ""
+
+#: includes/vc_blocks/milestone.php:99 includes/vc_blocks/piechart.php:130
+msgid "Enter a short caption."
+msgstr ""
+
+#: includes/vc_blocks/milestone.php:107
+msgid ""
+"Enter a Typicon icon or FontAwesome 4 icon value. (Ex. typcn typcn-cog / fa "
+"fa-ambulance)"
+msgstr ""
+
+#: includes/vc_blocks/milestone.php:146
+msgid "Border Radius"
+msgstr ""
+
+#: includes/vc_blocks/milestone.php:148
+msgid "Enter a positive integer value between 0 and 99px."
+msgstr ""
+
+#: includes/vc_blocks/milestone.php:154
+msgid "Padding"
+msgstr ""
+
+#: includes/vc_blocks/milestone.php:188
+msgid ""
+"Enter a positive integer value. Use this field to adjust the vertical "
+"positioning of the icon."
+msgstr ""
+
+#: includes/vc_blocks/newsletter_registration.php:61
+msgid "Newsletter Registration"
+msgstr ""
+
+#: includes/vc_blocks/newsletter_registration.php:69
+msgid "Mailchimp URL"
+msgstr ""
+
+#: includes/vc_blocks/newsletter_registration.php:71
+msgid ""
+"Enter your MailChimp Subscribe URL (ex. http://pulsarmedia.us4.list-manage."
+"com/subscribe/post?u=2aa9334fc1bc18c8d05500b41&id=dbcb577c4d)."
+msgstr ""
+
+#: includes/vc_blocks/newsletter_registration.php:77
+msgid "Name field placeholder"
+msgstr ""
+
+#: includes/vc_blocks/newsletter_registration.php:79
+msgid "Enter a placeholder value for the name field."
+msgstr ""
+
+#: includes/vc_blocks/newsletter_registration.php:86
+msgid "Email field placeholder"
+msgstr ""
+
+#: includes/vc_blocks/newsletter_registration.php:88
+msgid "Enter a placeholder value for the email field."
+msgstr ""
+
+#: includes/vc_blocks/newsletter_registration.php:94
+msgid "Display Name Field?"
+msgstr ""
+
+#: includes/vc_blocks/newsletter_registration.php:96
+msgid "Choose whether or not to display the name field."
+msgstr ""
+
+#: includes/vc_blocks/panels_carousel.php:102
+msgid "Set the target window panel link."
+msgstr ""
+
+#: includes/vc_blocks/piechart.php:64
+msgid "Pie Chart"
+msgstr ""
+
+#: includes/vc_blocks/piechart.php:72
+msgid "Bar Size"
+msgstr ""
+
+#: includes/vc_blocks/piechart.php:74
+msgid "Enter a positive numeric value to set the size of the track bar."
+msgstr ""
+
+#: includes/vc_blocks/piechart.php:80
+msgid "Line Width"
+msgstr ""
+
+#: includes/vc_blocks/piechart.php:82
+msgid "Enter a positive numeric value to set the size of the line bar."
+msgstr ""
+
+#: includes/vc_blocks/piechart.php:88
+msgid "Track Color"
+msgstr ""
+
+#: includes/vc_blocks/piechart.php:96
+msgid "Bar Color"
+msgstr ""
+
+#: includes/vc_blocks/piechart.php:112 includes/vc_blocks/progress_bar.php:78
+msgid "Percentage"
+msgstr ""
+
+#: includes/vc_blocks/piechart.php:114 includes/vc_blocks/piechart.php:146
+msgid "Enter a positive numeric value."
+msgstr ""
+
+#: includes/vc_blocks/piechart.php:122
+msgid "Accepts a Typicon value. (Ex. typcn typcn-thumbs-up)"
+msgstr ""
+
+#: includes/vc_blocks/post_items.php:233
+msgid "News Posts"
+msgstr ""
+
+#: includes/vc_blocks/post_items.php:242
+msgid "Amount of News Posts to display:"
+msgstr ""
+
+#: includes/vc_blocks/post_items.php:244
+msgid "Choose how many news posts you would like to display."
+msgstr ""
+
+#: includes/vc_blocks/post_items.php:250
+#: includes/vc_blocks/properties_gallery.php:191
+#: includes/vc_blocks/service_posts.php:199
+#: includes/vc_blocks/staff_posts.php:181
+msgid "Post Order"
+msgstr ""
+
+#: includes/vc_blocks/post_items.php:252
+msgid "Set the order in which news posts will be displayed."
+msgstr ""
+
+#: includes/vc_blocks/post_items.php:258
+msgid "Tag slug"
+msgstr ""
+
+#: includes/vc_blocks/post_items.php:260
+msgid "Enter a tag slug to display news posts by a specific tag."
+msgstr ""
+
+#: includes/vc_blocks/post_items.php:266
+msgid "Category slug"
+msgstr ""
+
+#: includes/vc_blocks/post_items.php:268
+msgid "Enter a category slug to display news posts by a specific category."
+msgstr ""
+
+#: includes/vc_blocks/post_items.php:283
+#: includes/vc_blocks/service_posts.php:223
+msgid "Display Carousel Controls?"
+msgstr ""
+
+#: includes/vc_blocks/pricing_table.php:76
+msgid "Pricing Table"
+msgstr ""
+
+#: includes/vc_blocks/pricing_table.php:84
+msgid "Featured?"
+msgstr ""
+
+#: includes/vc_blocks/pricing_table.php:86
+msgid "Display a featured icon symbol."
+msgstr ""
+
+#: includes/vc_blocks/pricing_table.php:100
+msgid "Price"
+msgstr ""
+
+#: includes/vc_blocks/pricing_table.php:108
+msgid "Currency Symbol"
+msgstr ""
+
+#: includes/vc_blocks/pricing_table.php:116
+msgid "Subscript"
+msgstr ""
+
+#: includes/vc_blocks/pricing_table.php:124
+#: includes/vc_blocks/property_search.php:137 includes/wp-functions.php:940
+#: includes/wp-functions.php:1024
+msgid "Message"
+msgstr ""
+
+#: includes/vc_blocks/pricing_table.php:140
+msgid "Button URL"
+msgstr ""
+
+#: includes/vc_blocks/pricing_table.php:148 includes/vc_blocks/video_box.php:85
+msgid "Background Image"
+msgstr ""
+
+#: includes/vc_blocks/pricing_table.php:155
+msgid "Header Color"
+msgstr ""
+
+#: includes/vc_blocks/pricing_table.php:182
+msgid "Format your content in an unordered list for proper formatting."
+msgstr ""
+
+#: includes/vc_blocks/process_list.php:98
+msgid "Process List"
+msgstr ""
+
+#: includes/vc_blocks/process_list.php:120
+msgid "Process List Item"
+msgstr ""
+
+#: includes/vc_blocks/progress_bar.php:62
+msgid "Progress Bar"
+msgstr ""
+
+#: includes/vc_blocks/progress_bar.php:70
+msgid "Element ID Number"
+msgstr ""
+
+#: includes/vc_blocks/progress_bar.php:72
+msgid ""
+"Enter a unique ID number to avoid conflicts with multiple progress bars on "
+"the same page."
+msgstr ""
+
+#: includes/vc_blocks/progress_bar.php:80
+msgid "Enter a positive integer value between 0 and 100."
+msgstr ""
+
+#: includes/vc_blocks/progress_bar.php:86
+msgid "Short Message"
+msgstr ""
+
+#: includes/vc_blocks/progress_bar.php:88
+msgid "Enter a short message to display."
+msgstr ""
+
+#: includes/vc_blocks/progress_bar.php:110
+msgid "Percentage Color"
+msgstr ""
+
+#: includes/vc_blocks/properties_gallery.php:139
+msgid "No featured properties were found."
+msgstr ""
+
+#: includes/vc_blocks/properties_gallery.php:156
+msgid "View Map"
+msgstr ""
+
+#: includes/vc_blocks/properties_gallery.php:182
+msgid "Properties Gallery"
+msgstr ""
+
+#: includes/vc_blocks/properties_gallery.php:193
+msgid "Set the order in which the property posts are displayed."
+msgstr ""
+
+#: includes/vc_blocks/property_search.php:38
+msgid "City"
+msgstr ""
+
+#: includes/vc_blocks/property_search.php:42
+msgid "Property Type"
+msgstr ""
+
+#: includes/vc_blocks/property_search.php:58
+msgid "Sale Type"
+msgstr ""
+
+#: includes/vc_blocks/property_search.php:71
+msgid "Min. Price"
+msgstr ""
+
+#: includes/vc_blocks/property_search.php:72
+msgid "Max. Price"
+msgstr ""
+
+#: includes/vc_blocks/property_search.php:89 search.php:21
+msgid "Search"
+msgstr ""
+
+#: includes/vc_blocks/property_search.php:111
+msgid "Property Search"
+msgstr ""
+
+#: includes/vc_blocks/property_search.php:123
+msgid "Enter a title if required"
+msgstr ""
+
+#: includes/vc_blocks/property_search.php:129
+msgid "Results Page"
+msgstr ""
+
+#: includes/vc_blocks/property_search.php:131
+msgid "Enter the URL slug for the property search results template page."
+msgstr ""
+
+#: includes/vc_blocks/property_search.php:139
+msgid "Enter a message if required."
+msgstr ""
+
+#: includes/vc_blocks/property_search.php:154
+msgid "Apply a CSS class to the parent container if required."
+msgstr ""
+
+#: includes/vc_blocks/quote_box.php:65
+msgid "Quote Box"
+msgstr ""
+
+#: includes/vc_blocks/quote_box.php:73
+msgid "Author Name"
+msgstr ""
+
+#: includes/vc_blocks/quote_box.php:89
+#: includes/vc_blocks/testimonial_profile.php:103
+msgid "Avatar"
+msgstr ""
+
+#: includes/vc_blocks/quote_box.php:104
+#: includes/vc_blocks/staff_profile.php:162
+msgid "Name Color"
+msgstr ""
+
+#: includes/vc_blocks/recent_properties.php:150
+msgid "No recent properties were found."
+msgstr ""
+
+#: includes/vc_blocks/recent_properties.php:173
+msgid "Recent Properties"
+msgstr ""
+
+#: includes/vc_blocks/recent_properties.php:181
+msgid "Number of Properties to display"
+msgstr ""
+
+#: includes/vc_blocks/recent_properties.php:183
+msgid "Enter a positive integer."
+msgstr ""
+
+#: includes/vc_blocks/service_posts.php:183
+msgid "Service Posts"
+msgstr ""
+
+#: includes/vc_blocks/service_posts.php:191
+msgid "Post Count"
+msgstr ""
+
+#: includes/vc_blocks/service_posts.php:193
+msgid ""
+"Set the amount of posts you would like fetch. Set value to -1 to retrieve "
+"all service posts."
+msgstr ""
+
+#: includes/vc_blocks/service_posts.php:201
+#: includes/vc_blocks/staff_posts.php:183
+msgid "Set the order in which service posts are displayed."
+msgstr ""
+
+#: includes/vc_blocks/service_posts.php:207
+msgid "Category"
+msgstr ""
+
+#: includes/vc_blocks/service_posts.php:209
+msgid ""
+"Enter a category slug to retrieve service posts based on their assigned "
+"category."
+msgstr ""
+
+#: includes/vc_blocks/service_posts.php:215
+msgid "Enable Carousel mode?"
+msgstr ""
+
+#: includes/vc_blocks/slider_carousel.php:118
+msgid "Slider Carousel"
+msgstr ""
+
+#: includes/vc_blocks/slider_carousel.php:132
+msgid "Choose between a slide or fade effect."
+msgstr ""
+
+#: includes/vc_blocks/slider_carousel.php:150
+msgid "Alt attribute"
+msgstr ""
+
+#: includes/vc_blocks/slider_carousel.php:152
+msgid "Enter a descriptive alt attribute - this is used for SEO purposes."
+msgstr ""
+
+#: includes/vc_blocks/slider_carousel.php:160
+msgid "Upload an image for your slide."
+msgstr ""
+
+#: includes/vc_blocks/staff_posts.php:172
+msgid "Staff Posts"
+msgstr ""
+
+#: includes/vc_blocks/staff_posts.php:189
+msgid "Staff Title"
+msgstr ""
+
+#: includes/vc_blocks/staff_posts.php:191
+msgid ""
+"Enter a staff title slug to retrieve staff posts based on their assigned "
+"title."
+msgstr ""
+
+#: includes/vc_blocks/staff_profile.php:146
+msgid "Staff Profile"
+msgstr ""
+
+#: includes/vc_blocks/staff_profile.php:154
+msgid "Staff Post ID"
+msgstr ""
+
+#: includes/vc_blocks/staff_profile.php:156
+msgid "Enter the ID number of the staff post you wish to display."
+msgstr ""
+
+#: includes/vc_blocks/standard_button.php:58
+msgid "Button"
+msgstr ""
+
+#: includes/vc_blocks/standard_button.php:101
+msgid "Set the target window for the button."
+msgstr ""
+
+#: includes/vc_blocks/standard_button.php:109
+msgid "Accepts a FontAwesome 4 icon value. (Ex. fa fa-angle-right)"
+msgstr ""
+
+#: includes/vc_blocks/standard_button.php:131
+msgid "Button Animation?"
+msgstr ""
+
+#: includes/vc_blocks/standard_button.php:133
+msgid "Adds a rollover animation effect to the icon."
+msgstr ""
+
+#: includes/vc_blocks/standard_button.php:139
+msgid "Button Type"
+msgstr ""
+
+#: includes/vc_blocks/tab_group.php:118
+msgid "Tab Menu"
+msgstr ""
+
+#: includes/vc_blocks/tab_group.php:132
+msgid ""
+"Assign a unique number value for this Tab Group. If you are creating "
+"multiple Tab Groups on a single page please make sure each Tab Group has a "
+"unique number assigned to it in order to avoid conflicts between menus."
+msgstr ""
+
+#: includes/vc_blocks/tab_group.php:140
+msgid "Tab Menu Item"
+msgstr ""
+
+#: includes/vc_blocks/testimonial_profile.php:70
+msgid "Testimonial Profile"
+msgstr ""
+
+#: includes/vc_blocks/testimonial_profile.php:97
+msgid "Enter a date if required."
+msgstr ""
+
+#: includes/vc_blocks/testimonial_profile.php:105
+msgid "Upload an avatar for your testimonial. Recommended size 230x230px"
+msgstr ""
+
+#: includes/vc_blocks/testimonial_profile.php:110
+msgid "Avatar Icon"
+msgstr ""
+
+#: includes/vc_blocks/testimonial_profile.php:112
+msgid "Upload an icon for your avatar."
+msgstr ""
+
+#: includes/vc_blocks/testimonial_profile.php:119
+msgid "Enter your testimonial quote."
+msgstr ""
+
+#: includes/vc_blocks/testimonials.php:82
+msgid "Testimonials"
+msgstr ""
+
+#: includes/vc_blocks/testimonials.php:92
+msgid "Upload a custom icon image."
+msgstr ""
+
+#: includes/vc_blocks/timetable_group.php:133
+msgid "Time Table"
+msgstr ""
+
+#: includes/vc_blocks/timetable_group.php:147
+msgid ""
+"Assign a unique number value for this Time Table. If you are creating "
+"multiple Time Tables on a single page please make sure each Time Table menu "
+"has a unique number assigned to it in order to avoid conflicts between menus."
+msgstr ""
+
+#: includes/vc_blocks/timetable_group.php:153
+msgid "Expand icon"
+msgstr ""
+
+#: includes/vc_blocks/timetable_group.php:155
+msgid "Accepts a FontAwesome 4 icon value. Ex. fa fa-caret-down"
+msgstr ""
+
+#: includes/vc_blocks/timetable_group.php:166
+msgid "Time Table Item"
+msgstr ""
+
+#: includes/vc_blocks/timetable_group.php:201
+msgid "Structure your content in an unordered list for proper formatting."
+msgstr ""
+
+#: includes/vc_blocks/video_box.php:61
+msgid "Video Box"
+msgstr ""
+
+#: includes/vc_blocks/video_box.php:71
+msgid "Enter a FontAwesome 4 or Typicon icon value."
+msgstr ""
+
+#: includes/vc_blocks/video_box.php:77
+msgid "Video URL"
+msgstr ""
+
+#: includes/vc_blocks/video_box.php:79
+msgid ""
+"Enter a URL path for your video. (Ex. https://www.youtube.com/watch?"
+"v=XFPLSUZBCB8)"
+msgstr ""
+
+#: includes/vc_blocks/video_box.php:87
+msgid "Upload a background image for your video box."
+msgstr ""
+
+#: includes/vc_blocks/video_box.php:92
+msgid "Activate Video Link?"
+msgstr ""
+
+#: includes/vc_blocks/video_box.php:94
+msgid "Choose whether to activate the video link."
+msgstr ""
+
+#: includes/vc_blocks/video_box.php:100
+msgid "Video Link Text"
+msgstr ""
+
+#: includes/vc_blocks/video_box.php:102
+msgid ""
+"Enter a custom message for your video link button - only applies if Video "
+"link is active."
+msgstr ""
+
+#: includes/vc_blocks/video_box.php:108
+msgid "Video Link URL"
+msgstr ""
+
+#: includes/vc_blocks/video_box.php:110
+msgid ""
+"Enter a custom URL for your video link button - only applies if Video link "
+"is active."
+msgstr ""
+
+#: includes/vc_blocks/vimeo_video.php:61
+msgid "Vimeo Video"
+msgstr ""
+
+#: includes/vc_blocks/vimeo_video.php:69
+#: includes/vc_blocks/youtube_video.php:69
+msgid "Video ID"
+msgstr ""
+
+#: includes/vc_blocks/vimeo_video.php:71
+msgid "Enter your Vimeo video ID."
+msgstr ""
+
+#: includes/vc_blocks/vimeo_video.php:76
+#: includes/vc_blocks/youtube_video.php:76
+msgid "Video width"
+msgstr ""
+
+#: includes/vc_blocks/vimeo_video.php:78
+#: includes/vc_blocks/youtube_video.php:78
+msgid "Enter a custom width for your video."
+msgstr ""
+
+#: includes/vc_blocks/vimeo_video.php:84
+#: includes/vc_blocks/youtube_video.php:84
+msgid "Video height"
+msgstr ""
+
+#: includes/vc_blocks/vimeo_video.php:86
+#: includes/vc_blocks/youtube_video.php:86
+msgid "Enter a custom height for your video."
+msgstr ""
+
+#: includes/vc_blocks/vimeo_video.php:92
+#: includes/vc_blocks/youtube_video.php:92
+msgid "Make video responsive?"
+msgstr ""
+
+#: includes/vc_blocks/vimeo_video.php:94
+#: includes/vc_blocks/youtube_video.php:94
+msgid ""
+"Enable responsiveness for your video - this value overrides the Video width "
+"value."
+msgstr ""
+
+#: includes/vc_blocks/youtube_video.php:61
+msgid "YouTube Video"
+msgstr ""
+
+#: includes/vc_blocks/youtube_video.php:71
+msgid "Enter your Youtube video ID."
+msgstr ""
+
+#: includes/widget-facebook.php:13
+msgid "Facebook Like Box"
+msgstr ""
+
+#: includes/widget-facebook.php:15
+msgid "[Micro Themes] - Facebook Likebox"
+msgstr ""
+
+#: includes/widget-facebook.php:94 includes/widget-flickr.php:76
+#: includes/widget-knowledgebase.php:128 includes/widget-recentposts.php:52
+#: includes/widget-trends.php:51 includes/widget-twitter.php:124
+#: includes/widget-video.php:71
+msgid "Title:"
+msgstr ""
+
+#: includes/widget-facebook.php:100
+msgid "Minimize header?"
+msgstr ""
+
+#: includes/widget-facebook.php:105
+msgid "Display faces?"
+msgstr ""
+
+#: includes/widget-facebook.php:110
+msgid "Display cover?"
+msgstr ""
+
+#: includes/widget-facebook.php:115
+msgid "Display stream?"
+msgstr ""
+
+#: includes/widget-facebook.php:119
+msgid "Height:"
+msgstr ""
+
+#: includes/widget-facebook.php:124
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: includes/widget-flickr.php:13
+msgid "Flickr Widget - displays Flickr photos"
+msgstr ""
+
+#: includes/widget-flickr.php:14
+msgid "[Micro Themes] - Flickr"
+msgstr ""
+
+#: includes/widget-flickr.php:81
+msgid "Flickr ID:"
+msgstr ""
+
+#: includes/widget-flickr.php:86
+msgid "Number of Photos:"
+msgstr ""
+
+#: includes/widget-flickr.php:91
+msgid "Type (user or group):"
+msgstr ""
+
+#: includes/widget-flickr.php:93
+msgid "user"
+msgstr ""
+
+#: includes/widget-flickr.php:94
+msgid "group"
+msgstr ""
+
+#: includes/widget-flickr.php:99
+msgid "Display (random or latest):"
+msgstr ""
+
+#: includes/widget-flickr.php:101
+msgid "random"
+msgstr ""
+
+#: includes/widget-flickr.php:102
+msgid "latest"
+msgstr ""
+
+#: includes/widget-knowledgebase.php:13
+msgid "Knowledge Base Center Widget"
+msgstr ""
+
+#: includes/widget-knowledgebase.php:15
+msgid "[Micro Themes] - Knowledge Base Center"
+msgstr ""
+
+#: includes/widget-knowledgebase.php:53
+msgid "-- Select a Category --"
+msgstr ""
+
+#: includes/widget-knowledgebase.php:76
+msgid "-- Select a Tag --"
+msgstr ""
+
+#: includes/widget-knowledgebase.php:89
+msgid "Visit our"
+msgstr ""
+
+#: includes/widget-knowledgebase.php:89
+msgid "Knowledge centre"
+msgstr ""
+
+#: includes/widget-knowledgebase.php:117
+msgid "Knowledge Center"
+msgstr ""
+
+#: includes/widget-knowledgebase.php:134
+msgid "Display Category List?"
+msgstr ""
+
+#: includes/widget-knowledgebase.php:139
+msgid "Display Tag List?"
+msgstr ""
+
+#: includes/widget-knowledgebase.php:143
+msgid "Description:"
+msgstr ""
+
+#: includes/widget-knowledgebase.php:148
+msgid "Knowledge Base URL:"
+msgstr ""
+
+#: includes/widget-mailchimp.php:31
+msgid "Setup a mailchimp powered newsletter signup form"
+msgstr ""
+
+#: includes/widget-mailchimp.php:34
+msgid "[Micro Themes] - Mailchimp Newsletter Form"
+msgstr ""
+
+#: includes/widget-mailchimp.php:42
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#: includes/widget-mailchimp.php:59
+msgid "Sub-Title"
+msgstr ""
+
+#: includes/widget-mailchimp.php:67 includes/widget-quickcontact.php:67
+msgid "Form Color:"
+msgstr ""
+
+#: includes/widget-mailchimp.php:69 includes/widget-quickcontact.php:69
+#: includes/widget-quickcontact.php:76
+msgid "Light"
+msgstr ""
+
+#: includes/widget-mailchimp.php:70 includes/widget-quickcontact.php:70
+#: includes/widget-quickcontact.php:77
+msgid "Dark"
+msgstr ""
+
+#: includes/widget-mailchimp.php:73
+msgid "Newsletter URL"
+msgstr ""
+
+#: includes/widget-mailchimp.php:74
+msgid "Unsubscribe URL"
+msgstr ""
+
+#: includes/widget-mailchimp.php:122
+msgid "first name"
+msgstr ""
+
+#: includes/widget-mailchimp.php:123 includes/widget-quickcontact.php:151
+msgid "email address"
+msgstr ""
+
+#: includes/widget-mailchimp.php:128
+msgid "To unsubscribe"
+msgstr ""
+
+#: includes/widget-mailchimp.php:128
+msgid "click here"
+msgstr ""
+
+#: includes/widget-quickcontact.php:31
+msgid "Insert a quick contact form"
+msgstr ""
+
+#: includes/widget-quickcontact.php:34
+msgid "[Micro Themes] - Quick Contact Form"
+msgstr ""
+
+#: includes/widget-quickcontact.php:42
+msgid "Quick Contact"
+msgstr ""
+
+#: includes/widget-quickcontact.php:74
+msgid "Response Color:"
+msgstr ""
+
+#: includes/widget-quickcontact.php:81
+msgid "Email address"
+msgstr ""
+
+#: includes/widget-quickcontact.php:84
+msgid "Consent Checkbox:"
+msgstr ""
+
+#: includes/widget-quickcontact.php:92
+msgid "Consent Message:"
+msgstr ""
+
+#: includes/widget-quickcontact.php:150
+msgid "full name"
+msgstr ""
+
+#: includes/widget-quickcontact.php:152
+msgid "message"
+msgstr ""
+
+#: includes/widget-quickcontact.php:165
+msgid "Send"
+msgstr ""
+
+#: includes/widget-recentposts.php:29
+msgid "Display recent posts with style."
+msgstr ""
+
+#: includes/widget-recentposts.php:32
+msgid "[Micro Themes] - Recent Posts"
+msgstr ""
+
+#: includes/widget-recentposts.php:40
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/widget-recentposts.php:54 includes/widget-trends.php:61
+msgid "Number of Posts to display:"
+msgstr ""
+
+#: includes/widget-recentposts.php:56
+msgid "Order posts by most likes?"
+msgstr ""
+
+#: includes/widget-trends.php:29
+msgid "Display a list of news posts with the most views."
+msgstr ""
+
+#: includes/widget-trends.php:32
+msgid "[Micro Themes] - Trend Posts"
+msgstr ""
+
+#: includes/widget-trends.php:40
+msgid "Trending Now"
+msgstr ""
+
+#: includes/widget-trends.php:54
+msgid "Filter by:"
+msgstr ""
+
+#: includes/widget-trends.php:56
+msgid "Most Views"
+msgstr ""
+
+#: includes/widget-trends.php:57
+msgid "Most Likes"
+msgstr ""
+
+#: includes/widget-twitter.php:13
+msgid "Twitter Widget - displays Latest Tweets"
+msgstr ""
+
+#: includes/widget-twitter.php:16
+msgid "[Micro Themes] - Twitter"
+msgstr ""
+
+#: includes/widget-twitter.php:129
+msgid "Twitter Widget ID:"
+msgstr ""
+
+#: includes/widget-twitter.php:129
+msgid "More info"
+msgstr ""
+
+#: includes/widget-twitter.php:134
+msgid "Number of tweets to display:"
+msgstr ""
+
+#: includes/widget-twitter.php:140
+msgid "Activate Links?"
+msgstr ""
+
+#: includes/widget-twitter.php:148
+msgid "Display User Thumbnail?"
+msgstr ""
+
+#: includes/widget-twitter.php:153
+msgid "Display time of tweet?"
+msgstr ""
+
+#: includes/widget-twitter.php:158
+msgid "Display Interaction Links?"
+msgstr ""
+
+#: includes/widget-video.php:14
+msgid "Video Widget - supports Youtube, Vimeo, Dailymotion"
+msgstr ""
+
+#: includes/widget-video.php:16
+msgid "[Micro Themes] - Videos"
+msgstr ""
+
+#: includes/widget-video.php:63
+msgid "Videos"
+msgstr ""
+
+#: includes/widget-video.php:76
+msgid "Video Type:"
+msgstr ""
+
+#: includes/widget-video.php:78
+msgid "Youtube"
+msgstr ""
+
+#: includes/widget-video.php:80
+msgid "Dailymotion"
+msgstr ""
+
+#: includes/widget-video.php:85
+msgid "Video ID:"
+msgstr ""
+
+#: includes/wp-functions.php:238
+msgid "Home"
+msgstr ""
+
+#: includes/wp-functions.php:333
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/wp-functions.php:333
+msgid "(Edit)"
+msgstr ""
+
+#: includes/wp-functions.php:361
+msgid "Leave a Reply"
+msgstr ""
+
+#: includes/wp-functions.php:362
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: includes/wp-functions.php:363
+msgid "Cancel Reply"
+msgstr ""
+
+#: includes/wp-functions.php:364
+msgid "Post Comment"
+msgstr ""
+
+#: includes/wp-functions.php:519
+msgid "Sign in"
+msgstr ""
+
+#: includes/wp-functions.php:543 includes/wp-functions.php:574
+msgid "Register Account"
+msgstr ""
+
+#: includes/wp-functions.php:566
+msgid "Minimum 8 characters"
+msgstr ""
+
+#: includes/wp-functions.php:924 includes/wp-functions.php:1010
+#: includes/wp-functions.php:1120
+msgid "donotreply"
+msgstr ""
+
+#: includes/wp-functions.php:930
+msgid "Contact Form Inquiry"
+msgstr ""
+
+#: includes/wp-functions.php:934 includes/wp-functions.php:1020
+#: includes/wp-functions.php:1133 includes/wp-functions.php:1150
+msgid ""
+"THIS IS AN AUTOMATED MESSAGE. PLEASE DO NOT REPLY DIRECTLY TO THIS EMAIL"
+msgstr ""
+
+#: includes/wp-functions.php:936
+msgid "First Name"
+msgstr ""
+
+#: includes/wp-functions.php:937
+msgid "Last Name"
+msgstr ""
+
+#: includes/wp-functions.php:1016
+msgid "Quick Contact Form Inquiry"
+msgstr ""
+
+#: includes/wp-functions.php:1126
+msgid "Appointment Form Inquiry"
+msgstr ""
+
+#: includes/wp-functions.php:1139 includes/wp-functions.php:1156
+msgid "Time of Appointment"
+msgstr ""
+
+#: includes/wp-functions.php:1140
+msgid "Country"
+msgstr ""
+
+#: includes/wp-functions.php:1141
+msgid "Location"
+msgstr ""
+
+#: page.php:37 page.php:65 page.php:99 page.php:129
+#: single-post_galleries.php:11 single-post_knowledgebase.php:19
+#: single-post_knowledgebase.php:38 single-post_knowledgebase.php:61
+#: single-post_services.php:10 single-post_staff.php:11
+msgid "No content was found."
+msgstr ""
+
+#: product-searchform.php:4 search.php:18 searchform.php:4
+msgid "Type keywords..."
+msgstr ""
+
+#: search.php:13
+msgid "Your search entry for"
+msgstr ""
+
+#: search.php:13
+msgid "yielded no results."
+msgstr ""
+
+#: search.php:15
+msgid "Try a new search query:"
+msgstr ""
+
+#: single-post_locations.php:10 single.php:10
+msgid "No post was found."
+msgstr ""
+
+#: template-gallery.php:42 template-staff.php:42
+msgid "Currently viewing"
+msgstr ""
+
+#: template-gallery.php:43 template-staff.php:43
+msgid "View all"
+msgstr ""
+
+#: template-gallery.php:92
+msgid "No gallery posts were found."
+msgstr ""
+
+#: template-locations.php:56 template-locations.php:58
+msgid "Browsing"
+msgstr ""
+
+#: template-locations.php:58
+msgid "All locations"
+msgstr ""
+
+#: template-locations.php:67
+msgid "-- Browse by Country --"
+msgstr ""
+
+#: template-locations.php:68
+msgid "All Locations"
+msgstr ""
+
+#: template-locations.php:147
+msgid "No locations were found."
+msgstr ""
+
+#: template-services.php:66
+msgid "No services were found."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "MEDICAL-LINK - Medical WordPress Theme"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.microthemes.ca"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Premium Medical Theme produced by Micro Themes"
+msgstr ""
